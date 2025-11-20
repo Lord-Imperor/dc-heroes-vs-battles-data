@@ -9,12 +9,21 @@
     "aliases": [
       "Lagzia"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Green Lantern, former history professor",
-    "base": "Oa",
-    "groupAffiliation": "Green Lantern Corps, Black Lantern Corps",
-    "relatives": "Amon Sur (son), Arin Sur (sister), Thaal Sinestro (brother-in-law), Soranik Natu (niece)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 20,
+      "power": 18,
+      "resilience": 12,
+      "armor": 20
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 8,
@@ -27,12 +36,21 @@
       "Warrior of Two Worlds",
       "Savior of Rann"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer, archaelogist, ambassador",
-    "base": "Rann, Alpha Centauri System",
-    "groupAffiliation": "Omega Men, L.E.G.I.O.N., R.E.B.E.L.S., formerly Seven Soldiers of Victory",
-    "relatives": "Alanna Strange (wife); Aleea Strange (daughter); Sardath (father-in-law); Janey Strange (sister); Todd Strange (brother, deceased); Bantteir (mother-in-law); Adam Strange II (descendent)"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 6,
+      "power": 6,
+      "resilience": 6,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 14,
@@ -46,12 +64,21 @@
       "White King",
       "Sentinal"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "Gotham City and New York City; Formerly Capitol City",
-    "groupAffiliation": "Justice Society of America; Formerly Checkmate; the Sentinels of Magic; Formerly All-Star Squadron",
-    "relatives": "Harlequin (Molly Mayne-Scott) (wife), Thorn (Rose Canton) (first wife, deceased), Todd Rice (Obsidian, son), Jennie-Lynn Hayden (Jade, daughter, deceased)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 20,
+      "power": 18,
+      "resilience": 12,
+      "armor": 20
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 17,
@@ -63,12 +90,21 @@
     "aliases": [
       "Alfred Beagle"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Butler; Caretaker, former Actor; Field Medic; Government Agent",
-    "base": "Wayne Manor; Batcave; Gotham City",
-    "groupAffiliation": "Batman Family, Outsiders",
-    "relatives": "Jarvis Pennyworth (father, deceased), Wilfred Pennyworth (older brother), Daphne Pennyworth (niece); Bruce Wayne (Batman, legal ward)"
+    "combat_stats": {
+      "reflexes": 3,
+      "movement": 2,
+      "power": 1,
+      "resilience": 2,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "10-B"
+    }
   },
   {
     "id": 20,
@@ -83,12 +119,21 @@
       "Humazo",
       "Hourmazo"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Formerly the Secret Society of Super Villains",
-    "relatives": "Professor Ivo (creator), Kid Amazo (cyborg offspring)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 14,
+      "power": 18,
+      "resilience": 18,
+      "armor": 10
+    },
+    "dc_mitigation": {
+      "skills": 8,
+      "resourcefulness": 6
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
   },
   {
     "id": 28,
@@ -100,12 +145,21 @@
     "aliases": [
       "The Human Zoo; A-Man; The Man with Animal Powers"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "San Diego, California",
-    "groupAffiliation": "Formerly Animal Masters, Forgotten Heroes, Justice League of America, Justice League Europe",
-    "relatives": "Ellen Frazier (wife), Cliff Baker (son), Maxine Baker (daughter), unnamed second daughter, Frank Baker, Jr. (father), Phyllis Baker (mother), unnamed sister, Frank, Sr (grandfather), Teddy (great grandfather), Sherman (great-great grandfather), Jack (great-great-great grandfather), Mary Frazier (mother-in-law), Dudley (uncle-in-law), Annie Cassidy (mother of second daughter), Lucy Cassidy (half-sister of second daughter)"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 6,
+      "power": 6,
+      "resilience": 6,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 32,
@@ -118,12 +172,21 @@
       "Monitor",
       "Mobius"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Qward, Antimatter Universe",
-    "groupAffiliation": "Sinestro Corps, Weaponers of Qward, Thunderers of Qward, Shadow Demons",
-    "relatives": "Monitor (\"brother\"), The Monitors"
+    "combat_stats": {
+      "reflexes": 22,
+      "movement": 20,
+      "power": 25,
+      "resilience": 25,
+      "armor": 8
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 25
+    },
+    "vs_battles_reference": {
+      "tier": "Low 1-C"
+    }
   },
   {
     "id": 37,
@@ -135,12 +198,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer; Magician, former Sidekick",
-    "base": "Atlantis",
-    "groupAffiliation": "Aquaman Family; formerly Black Lantern Corps, Sentinels of Magic, Teen Titans",
-    "relatives": "Cerdian (son), Dolphin (wife), Berra (mother), Thar (father), Slizzath (uncle) Donna (grand-daughter)"
+    "combat_stats": {
+      "reflexes": 12,
+      "movement": 12,
+      "power": 14,
+      "resilience": 14,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "8-C to 8-A"
+    }
   },
   {
     "id": 38,
@@ -157,12 +229,21 @@
       "Aquaboy",
       "Water Wraith"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Protector of the Seas and Oceans, King of Poseidonis",
-    "base": "Atlantean Royal Palace; Poseidonis, Atlantis",
-    "groupAffiliation": "Justice League, Aquaman Family, Atlantean Royal Family; formerly Black Lantern Corps, Justice League International, Justice League Detroit, U.N.",
-    "relatives": "Koryak (son), Arthur Curry, Jr. (son), A.J. (son), Orm Marius (half-brother), Debbie Perkins (half-sister), Drin (adopted brother), Atlanna (mother), Atlan (father), Atlena (aunt), Porm (adopted mother), Tom Curry (adopted father), Mera (wife), Hila (sister-in-law), Haumond (uncle), Kraken (uncle), Honsu (grandfather), Lorelei (grandmother), Manu (ancestor), Nala (ancestor), Fatima (ancestor), Kalunga (ancestor), Gana (ancestor), Fiona (ancestor), Regin (ancestor), Kordax (ancestor), Bazil (ancestor), Cora (ancestor), Illya (ancestor), Dardanus (ancestor), Alloroc (ancestor), Cole (ancestor), Narmea (ancestor), Orin (ancestor), Loma (ancestor), Shalako (ancestor), Thorvall (ancestor)"
+    "combat_stats": {
+      "reflexes": 14,
+      "movement": 14,
+      "power": 16,
+      "resilience": 16,
+      "armor": 8
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 18
+    },
+    "vs_battles_reference": {
+      "tier": "High 6-C to 4-B"
+    }
   },
   {
     "id": 49,
@@ -175,12 +256,21 @@
       "Atlas the Great",
       "Atlas the Untamed"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Formely; Hyssa, Metropolis",
-    "groupAffiliation": "-",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 10,
+      "power": 12,
+      "resilience": 12,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "8-C"
+    }
   },
   {
     "id": 53,
@@ -194,12 +284,21 @@
       "the Tiny Titan",
       "the World's Smallest Hero"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Physics Professor",
-    "base": "Ivy Town",
-    "groupAffiliation": "Justice League of America, formerly; Suicide Squad, Teen Titans",
-    "relatives": "Jean Loring (ex-wife, deceased), Princess Laethwen (wife, deceased), Danny Palmer (brother, deceased), David Palmer (father), Susan Palmer (mother, deceased), David Palmer (uncle)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 8,
+      "power": 3,
+      "resilience": 3,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 22,
+      "resourcefulness": 18
+    },
+    "vs_battles_reference": {
+      "tier": "10-A to 9-C"
+    }
   },
   {
     "id": 58,
@@ -211,12 +310,21 @@
     "aliases": [
       "Bat-Devil; Bat-Ghost"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Former Police Officer, vigilante",
-    "base": "-",
-    "groupAffiliation": "Order of St. Dumas; formerly Gotham City Police Department; Three Ghosts of Batman",
-    "relatives": "Mitchell Lane (father; deceased), Barbara Lane (mother; deceased), Marion Lane (brother; deceased), Gwendolyn Lane (sister; deceased), Chante Coles (wife; deceased), Henry Mitchell Lane (son; deceased), Jenny Lane (Sister-in-law)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 5,
+      "power": 5,
+      "resilience": 4,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 60,
@@ -228,12 +336,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Santa Prisca",
-    "groupAffiliation": "Suicide Squad, The Secret Society of Super Villains",
-    "relatives": "King Snake (father)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 8,
+      "power": 10,
+      "resilience": 10,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C on Venom"
+    }
   },
   {
     "id": 66,
@@ -246,12 +363,21 @@
       "Kasumi",
       "various mundane persona,"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "Gotham City; Bl?dhaven; Tibet; New York City",
-    "groupAffiliation": "Titans East, League of Assassins, Batman Family, Justice League Elite, Young Justice",
-    "relatives": "David Cain (father), Lady Shiva (mother), Carolyn (aunt, deceased), Annalea (sibling, deceased), 'The Mad Dog' (sibling)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 5,
+      "power": 5,
+      "resilience": 4,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 69,
@@ -267,12 +393,21 @@
       "The Dark Knight of Tomorrow",
       "Batman Beyond"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "21st Century Gotham City",
-    "groupAffiliation": "Batman Family, Justice League Unlimited",
-    "relatives": "Bruce Wayne (biological father), Warren McGinnis (father, deceased), Mary McGinnis (mother), Matt McGinnis (brother)"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 6,
+      "power": 6,
+      "resilience": 6,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 70,
@@ -285,12 +420,21 @@
       "Insider",
       "Matches Malone"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Businessman",
-    "base": "Batcave, Stately Wayne Manor, Gotham City; Hall of Justice, Justice League Watchtower",
-    "groupAffiliation": "Batman Family, Batman Incorporated, Justice League, Outsiders, Wayne Enterprises, Club of Heroes, formerly White Lantern Corps, Sinestro Corps",
-    "relatives": "Damian Wayne (son), Dick Grayson (adopted son), Tim Drake (adopted son), Jason Todd (adopted son), Cassandra Cain (adopted ward)\nMartha Wayne (mother, deceased), Thomas Wayne (father, deceased), Alfred Pennyworth (former guardian), Roderick Kane (grandfather, deceased), Elizabeth Kane (grandmother, deceased), Nathan Kane (uncle, deceased), Simon Hurt (ancestor), Wayne Family"
+    "combat_stats": {
+      "reflexes": 12,
+      "movement": 5,
+      "power": 6,
+      "resilience": 5,
+      "armor": 10
+    },
+    "dc_mitigation": {
+      "skills": 25,
+      "resourcefulness": 25
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 73,
@@ -302,12 +446,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "Gotham City",
-    "groupAffiliation": "Batman Family (unofficially), D.E.O, Unknowns",
-    "relatives": "Jacob Kane (father), Gabi Kane (mother; deceased), Beth Kane (twin sister), Mary Elizabeth \"Bette\" Kane (cousin), Catherine Hamilton-Kane (stepmother), Philip Kane (uncle), Kane Family"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 5,
+      "power": 5,
+      "resilience": 4,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 76,
@@ -325,12 +478,21 @@
       "Tork",
       "Craig Logan"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer, Struggling Actor",
-    "base": "Prague; formerly Hollywood, California; formerly Manhattan, New York",
-    "groupAffiliation": "Teen Titans; former member of the original Doom Patrol, Titans West",
-    "relatives": "Mark Logan (father, deceased), Marie Logan (mother, deceased), Steve Dayton/Mento (adoptive father), Rita Farr/Elasti-Girl (adoptive mother), Matt Logan (cousin)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 12,
+      "power": 12,
+      "resilience": 12,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 8
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 81,
@@ -343,12 +505,21 @@
       "Barda",
       "the Strongest Woman in the World"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Gotham City, New Genesis, formerly Apokolips",
-    "groupAffiliation": "Apocalypse, New Gods, Birds of Prey, formerly Female Furies, formerly Justice League of America",
-    "relatives": "Big Breeda (mother), Scott Free (Mister Miricle, husband), Highfather Izaya (father-in-law, deceased)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 16,
+      "power": 18,
+      "resilience": 18,
+      "armor": 10
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 93,
@@ -360,12 +531,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "neutral",
-    "occupation": "-",
-    "base": "Bizarro World",
-    "groupAffiliation": "Superman Revenge Squad; Bizarros of Bizarro World; former associate of the Secret Society of Super-Villains; Joker League of Anarchy; former partner of Batzarro",
-    "relatives": "Bizarro-Lois No. 1 (wife, Pre-Crisis only), Bizarro, Jr. (son, Pre-Crisis only), Bizarro-Lois, Jr. (daughter, Pre-Crisis only)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 18,
+      "power": 18,
+      "resilience": 18,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 2,
+      "resourcefulness": 1
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
   },
   {
     "id": 95,
@@ -380,12 +560,21 @@
       "Mighty Adam",
       "Khem-Adam"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Mobile; Formerly Kahndaq; Fawcett City; New York City",
-    "groupAffiliation": "None; Formerly the Black Marvel Family, Society of Villains, Injustice Society, Justice Society of America",
-    "relatives": "Shiruta (wife, deceased), Gon and Hurut (sons, deceased) Theo Adam (descendant, currently in control of his body), Sarah Primm (descendant, Theo's sister), Adrianna Tomaz (wife. deceased), Amon Tomaz (brother-in-law, deceased)"
+    "combat_stats": {
+      "reflexes": 18,
+      "movement": 20,
+      "power": 21,
+      "resilience": 21,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 18
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 97,
@@ -397,12 +586,21 @@
     "aliases": [
       "Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Detective/Crime-fighter, Chairperson of the Justice League of America; former florist, judo instructor",
-    "base": "Formerly Oracle's clock tower in Gotham City; formerly Seattle, Washington; formerly Star City, California; formerly New York City, New York (as a member of the JSA); currently mobile",
-    "groupAffiliation": "Birds of Prey; formerly Justice League of America, Justice Society of America, Justice League Task Force, Justice League International, Team Arrow",
-    "relatives": "Larry Lance (father, deceased), Dinah Drake Lance (Black Canary, mother, deceased); Oliver Queen (Green Arrow, husband); Craig Windrow (ex-husband); Sin (adoptive daughter)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 6,
+      "power": 6,
+      "resilience": 4,
+      "armor": 3
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "9-B to 9-A"
+    }
   },
   {
     "id": 98,
@@ -414,12 +612,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Florist, former private investigator",
-    "base": "Gotham City, Park City",
-    "groupAffiliation": "Justice Society of America",
-    "relatives": "Richard Drake (father), Lawrence Lance (husband), Dinah Laurel Lance (Black Canary, daughter), Oliver Queen (Green Arrow, son-in-law)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 6,
+      "power": 6,
+      "resilience": 4,
+      "armor": 3
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "9-B to 9-A"
+    }
   },
   {
     "id": 100,
@@ -436,12 +643,21 @@
       "Death Flash",
       "God of Death"
     ],
-    "publisher": "DC Comics",
     "alignment": "neutral",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 25,
+      "movement": 25,
+      "power": 20,
+      "resilience": 25,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 15,
+      "resourcefulness": 5
+    },
+    "vs_battles_reference": {
+      "tier": "Low 2-C"
+    }
   },
   {
     "id": 103,
@@ -453,12 +669,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Crime Fighter, High School teacher, Former gold-medal-winning Olympic Decathlete, formerly Secretary of Education under Presidents Pete Ross and Lex Luthor.",
-    "base": "Chicago, Illinois; Metropolis, The Hall & The JLA Watchtower",
-    "groupAffiliation": "Justice League of America (current), formerly Presidential Cabinet, The Outsiders (sporadically), Batman's Brother Eye attack group",
-    "relatives": "Unnamed father (deceased), Lynn Stewart (ex-wife), Joanna Pierce (niece, deceased), Anissa Pierce (Thunder, daughter), Jennifer Pierce (Lightning, daughter)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 10,
+      "power": 12,
+      "resilience": 10,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "8-C"
+    }
   },
   {
     "id": 105,
@@ -472,12 +697,21 @@
       "Scourge of the Seven Seas",
       "Yellow Lantern"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 10,
+      "power": 12,
+      "resilience": 12,
+      "armor": 12
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "8-C"
+    }
   },
   {
     "id": 126,
@@ -489,12 +723,21 @@
     "aliases": [
       "Scooter"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Student",
-    "base": "El Paso, Texas",
-    "groupAffiliation": "Justice League International,Posse; Teen Titans",
-    "relatives": "Alberto Reyes (father); Bianca Reyes (mother); Milagro Reyes (younger sister); Alejandro Reyes (grandfather, deceased); Elena Leal (maternal grandmother)"
+    "combat_stats": {
+      "reflexes": 12,
+      "movement": 14,
+      "power": 14,
+      "resilience": 12,
+      "armor": 14
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "8-B to 8-A"
+    }
   },
   {
     "id": 136,
@@ -506,12 +749,21 @@
     "aliases": [
       "Milton Fine"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Lex Luthor",
-    "relatives": "Vril Dox II (son), Brainiac 5 (descendant)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 16,
+      "power": 18,
+      "resilience": 18,
+      "armor": 12
+    },
+    "dc_mitigation": {
+      "skills": 25,
+      "resourcefulness": 24
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
   },
   {
     "id": 137,
@@ -523,12 +775,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Legion of Super-Heroes",
-    "relatives": "Unnamed mother, Brainiac (ancestor)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 16,
+      "power": 18,
+      "resilience": 18,
+      "armor": 12
+    },
+    "dc_mitigation": {
+      "skills": 25,
+      "resourcefulness": 24
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
   },
   {
     "id": 142,
@@ -540,12 +801,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "San Francisco, California",
-    "groupAffiliation": "Doom Patrol, S.T.A.R. Labs, Formerly Teen Titans",
-    "relatives": "Mal Duncan (husband)"
+    "combat_stats": {
+      "reflexes": 9,
+      "movement": 10,
+      "power": 10,
+      "resilience": 8,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 150,
@@ -559,12 +829,21 @@
       "Allen Adam",
       "Cameron Scott"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Former Soldier",
-    "base": "-",
-    "groupAffiliation": "Justice League, Extreme Justice, Super Buddies, Living Assault Weapons, Monarch's Army, United States Air Force",
-    "relatives": "Angela Adam Eiling (wife, deceased), Peggy Eiling (daughter), Randy Eiling (son), Bette Sans Souci (ex-wife, divorced)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 18,
+      "power": 19,
+      "resilience": 19,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 152,
@@ -581,12 +860,21 @@
       "Leonards Wynters",
       "The Man Who Mastered Absolute Zero"
     ],
-    "publisher": "DC Comics",
     "alignment": "neutral",
-    "occupation": "Professional Criminal",
-    "base": "-",
-    "groupAffiliation": "Justice League, Rogues; formerly Secret Society of Super-Villains, Injustice League",
-    "relatives": "Lisa Snart (sister)"
+    "combat_stats": {
+      "reflexes": 6,
+      "movement": 5,
+      "power": 10,
+      "resilience": 5,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-A"
+    }
   },
   {
     "id": 156,
@@ -601,12 +889,21 @@
       "Captain Thunder",
       "Shazam"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Marvel Family, Justice Society of America",
-    "relatives": "C.C. Batson (father, deceased), Marilyn Batson (mother, deceased), Ebenezer Batson (uncle), Mary Batson (Mary Marvel, sister)"
+    "combat_stats": {
+      "reflexes": 18,
+      "movement": 20,
+      "power": 20,
+      "resilience": 20,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 8,
+      "resourcefulness": 6
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 158,
@@ -619,12 +916,21 @@
       "Captain Marvel Jr.",
       "CM3"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer",
-    "base": "Primarily Fawcett City.",
-    "groupAffiliation": "Marvel Family, formerly Outsiders and Teen Titans.",
-    "relatives": "parents, deceased, Jacob Freeman (granfather, deceased), Timothy Karnes (Sabbac, foster brother, deceased)"
+    "combat_stats": {
+      "reflexes": 18,
+      "movement": 20,
+      "power": 20,
+      "resilience": 20,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 8,
+      "resourcefulness": 6
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 165,
@@ -641,12 +947,21 @@
       "Madame Moderne",
       "Marguerite Tone"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Thief",
-    "base": "Gotham City",
-    "groupAffiliation": "Batman Family, Outsiders; formerly Birds of Prey, Injustice League, Secret Society of Super-Villains",
-    "relatives": "Brian Kyle (father, deceased), Maria Kyle (mother, deceased), Maggie Kyle (sister), Helena Kyle (daughter)"
+    "combat_stats": {
+      "reflexes": 11,
+      "movement": 6,
+      "power": 4,
+      "resilience": 4,
+      "armor": 3
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 172,
@@ -659,12 +974,21 @@
       "Kay Carlton",
       "The Cheetah"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Villainy Inc",
-    "relatives": "Claudia Rich (cousin), Debi Domaine (niece)"
+    "combat_stats": {
+      "reflexes": 14,
+      "movement": 14,
+      "power": 12,
+      "resilience": 12,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "8-C to 8-A"
+    }
   },
   {
     "id": 174,
@@ -680,12 +1004,21 @@
       "Deborah Domaine",
       "Sabrina Ballesteros"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Archaeologist, Anthropologist",
-    "base": "Nottingham, England",
-    "groupAffiliation": "The Society, Injustice League",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 14,
+      "movement": 14,
+      "power": 12,
+      "resilience": 12,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "8-C to 8-A"
+    }
   },
   {
     "id": 177,
@@ -699,12 +1032,21 @@
       "Uncle Nate",
       "Uncle Nathan"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer, former Professional Football Player",
-    "base": "Battery Park, New York City, formerly Franklin County, Ohio",
-    "groupAffiliation": "Justice Society of America",
-    "relatives": "Hank Heywood, Sr. (Commander Steel, grandfather, deceased) ? Hank Heywood, Jr. (uncle, deceased) ? Hank Heywood III (Steel, cousin, deceased) ? Kirk Heywood (brother, deceased), Nicole (cousin)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 10,
+      "power": 12,
+      "resilience": 12,
+      "armor": 8
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "8-C"
+    }
   },
   {
     "id": 194,
@@ -718,12 +1060,21 @@
       "Omegadrome",
       "Planet Cyberion"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer, Teen Titan",
-    "base": "San Francisco",
-    "groupAffiliation": "Justice League; formerly Teen Titans, Titans, Titans East, New Teen Titans",
-    "relatives": "Silas Stone (father), Elinore Stone (mother), Tucker Stone (grandfather), Maude Stone (grandmother)"
+    "combat_stats": {
+      "reflexes": 12,
+      "movement": 12,
+      "power": 14,
+      "resilience": 10,
+      "armor": 18
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 22
+    },
+    "vs_battles_reference": {
+      "tier": "8-B to 8-A"
+    }
   },
   {
     "id": 195,
@@ -737,12 +1088,21 @@
       "Herald of the Anti-Monitor",
       "Alpha-Prime of the Alpha Lanterns"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Warworld, Qward, Antimatter Universe, formerly Biot, Sector 3601",
-    "groupAffiliation": "Alpha Lantern Corps, Manhunters, Warworld, formerly Apokolips and Sinestro Corps",
-    "relatives": "Terri Henshaw (wife, deceased)"
+    "combat_stats": {
+      "reflexes": 20,
+      "movement": 22,
+      "power": 21,
+      "resilience": 21,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 8
+    },
+    "vs_battles_reference": {
+      "tier": "Low 5-B to 2-C"
+    }
   },
   {
     "id": 204,
@@ -754,12 +1114,21 @@
     "aliases": [
       "Dark God"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Dictator of Apokolips",
-    "base": "-",
-    "groupAffiliation": "New Gods of Apokolips(ruler), Secret Society of Supervillains",
-    "relatives": "Zonuz (father), Izaya (brother), Avia (sister, deceased), Grail (daughter), Kalibak (son), Orion (son), Deathspawn (son), Scot (nephew/adopted son)"
+    "combat_stats": {
+      "reflexes": 20,
+      "movement": 18,
+      "power": 25,
+      "resilience": 25,
+      "armor": 5
+    },
+    "dc_mitigation": {
+      "skills": 22,
+      "resourcefulness": 25
+    },
+    "vs_battles_reference": {
+      "tier": "2-C to High 1-B"
+    }
   },
   {
     "id": 212,
@@ -771,12 +1140,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Wandering Spirit, Former Circus Aerialist",
-    "base": "Mobile, Realm of the Just Dead",
-    "groupAffiliation": "White Lantern Corps, formerly Sentinels of Magic, Seven Soldiers of Victory, Justice League of Apostles",
-    "relatives": "Cleveland Brand (twin brother, deceased), Lita Brand (niece), Unnamed parents"
+    "combat_stats": {
+      "reflexes": 25,
+      "movement": 25,
+      "power": 5,
+      "resilience": 25,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "Variable (intangible)"
+    }
   },
   {
     "id": 214,
@@ -790,12 +1168,21 @@
       "Worlds Finest Assassin",
       "Orlando Furioso"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 5,
+      "power": 4,
+      "resilience": 4,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 22,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 216,
@@ -809,12 +1196,21 @@
       "Deathstroke the Terminator",
       "Batman"
     ],
-    "publisher": "DC Comics",
     "alignment": "neutral",
-    "occupation": "Mercenary; Former Soldier, Big-Game Hunter",
-    "base": "The Labyrinth (exact location is currently unknown)",
-    "groupAffiliation": "The Society, Titans; Formerly Tartarus, The Injustice League",
-    "relatives": "Wade LaFarge (Ravager III, half-brother, deceased), Adeline Kane (ex-wife, deceased), Grant Wilson (Ravager I, son, deceased), Joseph Wilson (Jericho, son), Rose Wilson (Ravager IV, daughter)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 10,
+      "power": 8,
+      "resilience": 10,
+      "armor": 10
+    },
+    "dc_mitigation": {
+      "skills": 25,
+      "resourcefulness": 22
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 224,
@@ -826,12 +1222,21 @@
     "aliases": [
       "Nabu"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "Tower of Fate, Salem, Massachusetts",
-    "groupAffiliation": "Formerly All-Star Squadron, Justice Society of America, Justice League International, Black Lantern Corps",
-    "relatives": "Inza Cramer (wife), Sven Nelson (father, deceased), Celestine Babcock (mother), Kent Nelson, Jr. (son), Aaron Babcock (uncle), Kent V. Nelson (grand-nephew), Laryn Nelson (great grand-niece)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 8,
+      "power": 18,
+      "resilience": 14,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "7-B to 4-B"
+    }
   },
   {
     "id": 230,
@@ -843,12 +1248,21 @@
     "aliases": [
       "The Ultimate Lifeform"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Destroyer",
-    "base": "-",
-    "groupAffiliation": "Secret Society of Super Villains, Suicide Squad, Apokolips",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 14,
+      "power": 22,
+      "resilience": 24,
+      "armor": 8
+    },
+    "dc_mitigation": {
+      "skills": 3,
+      "resourcefulness": 0
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to 2-C"
+    }
   },
   {
     "id": 233,
@@ -861,12 +1275,21 @@
       "Jon Osterman",
       "Doctor Manhattan"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Scientist",
-    "base": "New York City; formerly Mars",
-    "groupAffiliation": "Watchmen, Crimebusters",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 25,
+      "movement": 25,
+      "power": 25,
+      "resilience": 25,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 25
+    },
+    "vs_battles_reference": {
+      "tier": "High 1-A to 0"
+    }
   },
   {
     "id": 240,
@@ -878,12 +1301,21 @@
     "aliases": [
       "Alvin Burgson; Molder"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Detective",
-    "base": "Opal City, Central City",
-    "groupAffiliation": "Justice League of America, Justice League Europe, Super Buddies, Outsiders, Croatoans, Black Lantern Corps",
-    "relatives": "Sue Dibny (wife, deceased); Ken Dibny (brother); Jake Dibny (uncle); Jim (uncle-in-law)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 8,
+      "power": 8,
+      "resilience": 16,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B to 9-A"
+    }
   },
   {
     "id": 242,
@@ -896,12 +1328,21 @@
       "Anita Soulfeeda",
       "Soulsinger"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Artist; Magician",
-    "base": "-",
-    "groupAffiliation": "Forgotten Villains, Sentinels of Magic, Shadowpact, Suicide Squad",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 8,
+      "power": 18,
+      "resilience": 14,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "7-B to 4-B"
+    }
   },
   {
     "id": 246,
@@ -913,12 +1354,21 @@
     "aliases": [
       "Demon"
     ],
-    "publisher": "DC Comics",
     "alignment": "neutral",
-    "occupation": "-",
-    "base": "Hell",
-    "groupAffiliation": "Formerly Justice League of America, Spirit Squad",
-    "relatives": "Belial (father), Raan va Daath (mother), Merlin (half Brother)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 8,
+      "power": 18,
+      "resilience": 14,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "7-B to 4-B"
+    }
   },
   {
     "id": 253,
@@ -930,12 +1380,21 @@
     "aliases": [
       "Katie"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Serial killer",
-    "base": "Phantom Zone; formerly Krypton",
-    "groupAffiliation": "Phantom Zone Criminals",
-    "relatives": "Hu-Ul (father, presumably deceased)"
+    "combat_stats": {
+      "reflexes": 20,
+      "movement": 22,
+      "power": 21,
+      "resilience": 21,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 8
+    },
+    "vs_battles_reference": {
+      "tier": "Low 5-B to 2-C"
+    }
   },
   {
     "id": 260,
@@ -947,12 +1406,21 @@
     "aliases": [
       "The Nuclear Man"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "University student; former food server at Bryson's Family Treat; former mascot at Ho-Ho Charlie's Chicken Shack; former intern at S.T.A.R. Labs",
-    "base": "Detroit, Michigan",
-    "groupAffiliation": "Justice League of America, formerly Lexcorp",
-    "relatives": "Alvin Rusch (father)"
+    "combat_stats": {
+      "reflexes": 14,
+      "movement": 18,
+      "power": 18,
+      "resilience": 16,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 261,
@@ -967,12 +1435,21 @@
       "Ronald Rockwell",
       "Flamehead"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer; former employee of Bun 'n Run",
-    "base": "Formerly Manhattan, New York City; Ivy University, Ivy Town; Pittsburgh, Pennsylvania",
-    "groupAffiliation": "Firestorm Matrix, Justice League,formerly Black Lantern Corps, Power Company, White Lantern Corps",
-    "relatives": "Edward Raymond (father); Elaine Rockwell (mother, deceased); Felicity Smoak-Raymond (stepmother); Richard Dare (grandfather)"
+    "combat_stats": {
+      "reflexes": 14,
+      "movement": 18,
+      "power": 18,
+      "resilience": 16,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 263,
@@ -985,12 +1462,21 @@
       "Jay Garrick",
       "Siegfreid the Speedster"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Research Scientist, part-time Director of Garrick Laboratories",
-    "base": "Keystone City, Kansas",
-    "groupAffiliation": "Justice Society of America, Flash Family; formerly All-Star Squadron",
-    "relatives": "Joseph Garrick (father), Joan Williams (wife), Arthur Williams (father-in-law), unnamed adopted son (deceased), Bart Allen (Flash II, ward)"
+    "combat_stats": {
+      "reflexes": 25,
+      "movement": 25,
+      "power": 10,
+      "resilience": 10,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 15,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 278,
@@ -1002,12 +1488,21 @@
     "aliases": [
       "Dru-Zod (possible first name)"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Formerly Krypton; formerly the Phantom Zone; currently Earth",
-    "groupAffiliation": "Phantom Zone criminals; former member of the Kryptonian Defense Council",
-    "relatives": "Ursa (mate/wife); Lor-Zod (son); Admiral Zod (possible ancestor)"
+    "combat_stats": {
+      "reflexes": 20,
+      "movement": 22,
+      "power": 21,
+      "resilience": 21,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 8
+    },
+    "vs_battles_reference": {
+      "tier": "Low 5-B to 2-C"
+    }
   },
   {
     "id": 284,
@@ -1019,12 +1514,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Criminal, former Scientist, Professor at Ivy University",
-    "base": "Ivy Town",
-    "groupAffiliation": "The Injustice League, formerly The Society, Villainy, Inc., The Legion of Doom",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 10,
+      "power": 12,
+      "resilience": 12,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "8-C"
+    }
   },
   {
     "id": 294,
@@ -1039,12 +1543,21 @@
       "Gorilla Grodd",
       "Grodd-Son"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Gorilla City, Africa",
-    "groupAffiliation": "-",
-    "relatives": "Boka (wife, separated), Gorbzil Mammit (son), Sam Simeon (grandson)"
+    "combat_stats": {
+      "reflexes": 12,
+      "movement": 10,
+      "power": 12,
+      "resilience": 12,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 298,
@@ -1057,12 +1570,21 @@
       "The Emerald Archer",
       "Battling Bowman"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Professional Crime-fighter; Multi-Billionaire",
-    "base": "Star City, California; Formerly Seattle, Washington",
-    "groupAffiliation": "Justice League Reserve, Connor Hawke, Mia Dearden,  Arsenal, Green Arrows of the World, Black Canary, Green Lantern Hal Jordan, Shado, Eddie Fyers, Justice League Elite, Seven Soldiers of Victory, All-Star Squadron",
-    "relatives": "Conner Hawke (son); Robert (son); Cissie King (possible daughter); Roy Harper - Red Arrow (adoptive son); Dinah Laurel Lance (wife); Dinah Drake Lance (mother-in-law, deceased); Larry Lance (father-in-law, deceased)"
+    "combat_stats": {
+      "reflexes": 12,
+      "movement": 5,
+      "power": 5,
+      "resilience": 4,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 18
+    },
+    "vs_battles_reference": {
+      "tier": "9-B to 9-A"
+    }
   },
   {
     "id": 305,
@@ -1076,12 +1598,21 @@
       "Red Lantern",
       "Warrior"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Former High School gym teacher; former bar owner; currently Honor guard of the Green Lantern Corps",
-    "base": "Formerly New York City; currently Oa",
-    "groupAffiliation": "Green Lantern Corps, Formerly Justice League of America",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 20,
+      "power": 18,
+      "resilience": 12,
+      "armor": 20
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 306,
@@ -1095,12 +1626,21 @@
       "Spectre",
       "Green Lantern"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer, Air Force Test Pilot",
-    "base": "-",
-    "groupAffiliation": "Green Lantern Corps, Justice League of America, Justice League Europe, frequently teamed with the second Flash and the original Green Arrow",
-    "relatives": "Martin H. \"Marty\" Jordan (father, deceased), Jessica Jordan (mother, deceased), Jim Jordan (younger brother), Jack Jordan (older brother, deceased), Jan Jordan (sister-in-law, deceased), Helen Jordan (neice), Larry Jordan (Air Wave I - cousin, deceased), Hal Jordan (Air Wave II - cousin)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 20,
+      "power": 18,
+      "resilience": 12,
+      "armor": 20
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 309,
@@ -1117,12 +1657,21 @@
       "Elise Archer",
       "Pumpkin Pooh"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Psychiatrist",
-    "base": "Gotham City",
-    "groupAffiliation": "Formerly The Quintets, The Joker, Poison Ivy, Secret Six",
-    "relatives": "Barry Quinzel (brother), Sharon Quinzel (mother), Nick Quinzel (father), Jenny Quinzel (niece), Nicky Quinzel (nephew)"
+    "combat_stats": {
+      "reflexes": 9,
+      "movement": 7,
+      "power": 5,
+      "resilience": 6,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 315,
@@ -1135,12 +1684,21 @@
       "Chay-Ara; Sheila Carr; Lady Celia Penbrook",
       "Kate Manser; Shiera Sanders"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer, Film School Student, Temp Curator of the Stonechat Museum",
-    "base": "St. Roch, Louisiana, JLA Watchtower; formerly Manhattan, New York (as a member of the JSA)",
-    "groupAffiliation": "Justice League of America, formerly a member of the JSA, Birds of Prey",
-    "relatives": "Michael Saunders (father, deceased); Trina Saunders (mother, deceased); Cyril \"Speed\" Saunders (grandfather); Mia Saunders (daughter); Shiera Hall (Hawkgirl, great-aunt, deceased); Carter Hall (Hawkman, great-uncle); Hector Hall (Dr. Fate, 2nd cousin); Northwind (cousin through adoption); Hippolyta Hall (Fury, cousin through marriage); Sandman (Daniel Hall, 3rd cousin), Death, Destiny, Destruction, Delirium, Desire (3rd cousins)"
+    "combat_stats": {
+      "reflexes": 12,
+      "movement": 14,
+      "power": 14,
+      "resilience": 14,
+      "armor": 10
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "8-C to 8-A"
+    }
   },
   {
     "id": 320,
@@ -1152,12 +1710,21 @@
     "aliases": [
       "Rory Calhoun"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Professional Criminal",
-    "base": "Central City",
-    "groupAffiliation": "Rogues; formerly Secret Society of Super-Villains, Legion of Doom",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 6,
+      "movement": 5,
+      "power": 10,
+      "resilience": 5,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-A"
+    }
   },
   {
     "id": 348,
@@ -1169,12 +1736,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer, formerly First Lady of Kahndaq, former slave",
-    "base": "Shiruta, Kahndaq",
-    "groupAffiliation": "Black Marvel Family",
-    "relatives": "Amon Tomaz (brother, deceased), Black Adam (husband)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 10,
+      "power": 12,
+      "resilience": 12,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "8-C"
+    }
   },
   {
     "id": 360,
@@ -1187,12 +1763,21 @@
       "Green Lantern",
       "Power Ring"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "Sara Cruz (sister)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 20,
+      "power": 18,
+      "resilience": 12,
+      "armor": 20
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 367,
@@ -1204,12 +1789,21 @@
     "aliases": [
       "Hellblazer"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Justice League Dark, Justice League",
-    "relatives": "Thomas Constantine (father, deceased), Cheryl Constantine (sister, deceased)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 8,
+      "power": 18,
+      "resilience": 14,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "7-B to 4-B"
+    }
   },
   {
     "id": 370,
@@ -1226,12 +1820,21 @@
       "Joe Kerr",
       "Mr. J"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Arkham Asylum, Gotham City; Ha-Hacienda",
-    "groupAffiliation": "Black Glove, Injustice Gang, Injustice League, Joker League of Anarchy",
-    "relatives": "Jeannie (wife, deceased); Unborn son (deceased); Melvin Reipan (cousin, deceased)"
+    "combat_stats": {
+      "reflexes": 6,
+      "movement": 5,
+      "power": 4,
+      "resilience": 8,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 25
+    },
+    "vs_battles_reference": {
+      "tier": "9-C with prep 9-A+"
+    }
   },
   {
     "id": 384,
@@ -1243,12 +1846,21 @@
     "aliases": [
       "Kid Lantern"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Flash Family, Teen Titans, New Teen Titans",
-    "relatives": "Rudolph and Mary West (parents), Ira West (grandfather), Iris Allen (aunt), Barry Allen (uncle), Linda Park West (wife), Jai and Iris West (twin children)"
+    "combat_stats": {
+      "reflexes": 25,
+      "movement": 25,
+      "power": 10,
+      "resilience": 10,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 15,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 386,
@@ -1260,12 +1872,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Gotham City",
-    "groupAffiliation": "Secret Society of Super-Villains",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 8,
+      "power": 12,
+      "resilience": 14,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 4,
+      "resourcefulness": 2
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 387,
@@ -1277,12 +1898,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Scientist",
-    "base": "Pittsburgh",
-    "groupAffiliation": "-",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 6,
+      "power": 6,
+      "resilience": 6,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 388,
@@ -1299,12 +1929,21 @@
       "\"Poozer\"",
       "Lantern"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "Oa, formerly Earth, Bolovax Vik",
-    "groupAffiliation": "Green Lantern Corps; formerly New Guardians, Justice League International",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 20,
+      "power": 18,
+      "resilience": 12,
+      "armor": 20
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 390,
@@ -1316,12 +1955,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Professional Criminal",
-    "base": "Honolulu, Hawaii",
-    "groupAffiliation": "-",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 8,
+      "power": 12,
+      "resilience": 14,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 4,
+      "resourcefulness": 2
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 396,
@@ -1333,12 +1981,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "Smallville, Kansas",
-    "groupAffiliation": "Superman",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 20,
+      "movement": 22,
+      "power": 21,
+      "resilience": 21,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 8
+    },
+    "vs_battles_reference": {
+      "tier": "Low 5-B to 2-C"
+    }
   },
   {
     "id": 397,
@@ -1355,12 +2012,21 @@
       "Honor Guard",
       "The Last Green Lantern"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Green Lantern, Adventurer, Artist",
-    "base": "Oa,formerly New York City, Los Angeles",
-    "groupAffiliation": "Green Lantern Corps, New Guardians, formerly Challengers From Beyond, Sinestro Corps, Justice League of America, Blue Lantern Corps, Titans",
-    "relatives": "Aaron Rayner (father), Maura Rayner (mother, deceased), Zachary Rayner (uncle, deceased), Roderick \"Snowy\" Rayner (grandfather, deceased), unnamed maternal great-grandfather (deceased), Kathleen (aunt), Cary Wren (descendant)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 20,
+      "power": 18,
+      "resilience": 12,
+      "armor": 20
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 405,
@@ -1372,12 +2038,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Owner of LexCorp",
-    "base": "-",
-    "groupAffiliation": "Injustice Gang, Injustice League, Society of Supervillains",
-    "relatives": "Casey and Elaine Griggs (foster parents, deceased),\nLena Luthor (sister pre-Crisis; daughter post-Crisis),\nElizabeth Perske (ex-wife),\nPerry J. White Jr. (son, deceased),\nContessa Erica Alexandra del Portenza (wife, assumed deceased)"
+    "combat_stats": {
+      "reflexes": 4,
+      "movement": 3,
+      "power": 3,
+      "resilience": 3,
+      "armor": 22
+    },
+    "dc_mitigation": {
+      "skills": 25,
+      "resourcefulness": 25
+    },
+    "vs_battles_reference": {
+      "tier": "9-C / 4-B in armor"
+    }
   },
   {
     "id": 407,
@@ -1390,12 +2065,21 @@
       "Lightning Boy",
       "Live Wire"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Legionnaire",
-    "base": "Earth, 31st century",
-    "groupAffiliation": "Legion of Super-Heroes",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 10,
+      "power": 12,
+      "resilience": 12,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "8-C"
+    }
   },
   {
     "id": 413,
@@ -1411,12 +2095,21 @@
       "Mister Machete",
       "Popebo; He-Who-Devours-Your-Entrails-And-Thoroughly-Enjoys-It"
     ],
-    "publisher": "DC Comics",
     "alignment": "neutral",
-    "occupation": "Assassin, Bounty Hunter, Priest",
-    "base": "Mobile throughout several galaxies",
-    "groupAffiliation": "Formerly LEGION, Young Justice; First Celestial Church of the Triple Fish-God",
-    "relatives": "Slobo (clone)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 18,
+      "power": 18,
+      "resilience": 22,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
   },
   {
     "id": 427,
@@ -1428,12 +2121,21 @@
     "aliases": [
       "Kirk Langstrom"
     ],
-    "publisher": "DC Comics",
     "alignment": "neutral",
-    "occupation": "Zoologist",
-    "base": "Gotham City",
-    "groupAffiliation": "Formerly Spirit Squad, The Network",
-    "relatives": "Francine Langstrom (wife), Rebecca Elizabeth Langtrom (daughter); Aaron Langstrom (son); Britt Langstrom (sister); Ted Friedel (brother-in-law)"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 8,
+      "power": 12,
+      "resilience": 14,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 4,
+      "resourcefulness": 2
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 432,
@@ -1447,12 +2149,21 @@
       "Bloodwynd",
       "many others"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Darkstars, Justice League of Aliens, Justice League Of America, Justice League Task Force, Justice League Unlimited, Martians, Outsiders",
-    "relatives": "M'yrnn J'onzz (father, deceased); Sha'sheen J'onzz (mother, deceased); M'yri'ah (wife, deceased); K'hym (daughter, deceased); Ma'alefa'ak (twin brother); D'all (father-in-law, deceased); J'ahrl J'onzz (ancestor, deceased)"
+    "combat_stats": {
+      "reflexes": 18,
+      "movement": 18,
+      "power": 18,
+      "resilience": 18,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 444,
@@ -1467,12 +2178,21 @@
       "Aquagirl",
       "Water-Woman"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Former queen of Atlantis; Former queen of Dimension Aqua",
-    "base": "Atlantis",
-    "groupAffiliation": "Aquaman Family; formerly Red Lantern Corps",
-    "relatives": "Aquaman (husband); Aquababy (son, deceased); A.J. (son); Siren (Hila, twin sister)"
+    "combat_stats": {
+      "reflexes": 12,
+      "movement": 12,
+      "power": 14,
+      "resilience": 14,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "8-C to 8-A"
+    }
   },
   {
     "id": 445,
@@ -1484,12 +2204,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Professional criminal",
-    "base": "Mobile, though he generally operates out of Metropolis",
-    "groupAffiliation": "Superman Revenge Squad",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 14,
+      "power": 18,
+      "resilience": 18,
+      "armor": 10
+    },
+    "dc_mitigation": {
+      "skills": 8,
+      "resourcefulness": 6
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
   },
   {
     "id": 448,
@@ -1501,12 +2230,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Scientist, seeker of knowledge",
-    "base": "Supertown, New Genesis",
-    "groupAffiliation": "New Gods",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 16,
+      "power": 18,
+      "resilience": 18,
+      "armor": 10
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 455,
@@ -1519,12 +2257,21 @@
       "Megan Morse; M'Gann M'Orzz (alternate spelling); Martian Girlhunter; Martian Manhunter (Titans Tomorrow alias)",
       "Star-Spangled Kid"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer",
-    "base": "Arizona; San Francisco, California; formerly the Tanami Desert, Australia",
-    "groupAffiliation": "Teen Titans",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 14,
+      "movement": 16,
+      "power": 14,
+      "resilience": 14,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "8-A to 7-C"
+    }
   },
   {
     "id": 457,
@@ -1538,12 +2285,21 @@
       "Doctor Zero",
       "Doctor Schimmell"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Assorted Batman rogues, The Society",
-    "relatives": "Nora Fries (wife, deceased, then resurrected as Lazara), Charles (Father) and Lorraine Fries (Mother)"
+    "combat_stats": {
+      "reflexes": 6,
+      "movement": 4,
+      "power": 8,
+      "resilience": 6,
+      "armor": 12
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 18
+    },
+    "vs_battles_reference": {
+      "tier": "9-A"
+    }
   },
   {
     "id": 459,
@@ -1555,12 +2311,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 25,
+      "movement": 25,
+      "power": 25,
+      "resilience": 25,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 25
+    },
+    "vs_battles_reference": {
+      "tier": "High 1-A to 0"
+    }
   },
   {
     "id": 508,
@@ -1572,12 +2337,21 @@
     "aliases": [
       "The World's Smartest Man"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Formerly The Crimebusters",
-    "relatives": "Friedrich Werner Veidt (father), Ingrid Renata Veidt (mother)"
+    "combat_stats": {
+      "reflexes": 6,
+      "movement": 5,
+      "power": 5,
+      "resilience": 5,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-C to 9-B"
+    }
   },
   {
     "id": 509,
@@ -1589,12 +2363,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Darkseid",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 10,
+      "power": 12,
+      "resilience": 12,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "8-C"
+    }
   },
   {
     "id": 514,
@@ -1606,12 +2389,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Trader",
-    "base": "Gotham City",
-    "groupAffiliation": "-",
-    "relatives": "Miranda Cobblepot (Aunt), Miranda (Mother, deceased), Father (deceased)"
+    "combat_stats": {
+      "reflexes": 4,
+      "movement": 3,
+      "power": 3,
+      "resilience": 3,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "9-C"
+    }
   },
   {
     "id": 520,
@@ -1623,12 +2415,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Government Agent",
-    "base": "-",
-    "groupAffiliation": "The FBI; formerly the Justice League of America; the All-Star Squadron and the Freedom Fighters",
-    "relatives": "Offspring (son)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 8,
+      "power": 8,
+      "resilience": 16,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B to 9-A"
+    }
   },
   {
     "id": 522,
@@ -1640,12 +2441,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Criminal, Botanist",
-    "base": "Gotham City",
-    "groupAffiliation": "Formerly Injustice Gang, Suicide Squad, Harley Quinn, Secret Society of Super Villains, Joker League of Anarchy",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 6,
+      "power": 12,
+      "resilience": 10,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 524,
@@ -1658,12 +2468,21 @@
       "Karen Starr",
       "Nightwing"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Justice Society of America, Justice League Europe, Infinity, Inc., Sovereign Seven",
-    "relatives": "Zor-L (father, deceased), Allura (mother, deceased), Jor-L (uncle, deceased), Lora (aunt, deceased), Kal-L (Earth-Two Superman, cousin and adopted father, deceased), Earth-Two Lois Lane (adopted mother, deceased), Equinox (son, deceased), Kara Zor-El (alternate universe version)"
+    "combat_stats": {
+      "reflexes": 20,
+      "movement": 22,
+      "power": 21,
+      "resilience": 21,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 8
+    },
+    "vs_battles_reference": {
+      "tier": "Low 5-B to 2-C"
+    }
   },
   {
     "id": 528,
@@ -1678,12 +2497,21 @@
       "Adrian Zoom",
       "Mister Zyx"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Central Cityplex, 25th Century",
-    "groupAffiliation": "Formerly Secret Society of Super-Villains, Black Lantern Corps, White Lantern Corps",
-    "relatives": "Robern Thawne (brother), Malcolm Thawne (Cobalt Blue) (distant ancestor), President Thawne, Meloni Thawne, Bart Allen, Owen Mercer (descendants) - see Allen Family for complete family tree"
+    "combat_stats": {
+      "reflexes": 25,
+      "movement": 25,
+      "power": 12,
+      "resilience": 12,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 535,
@@ -1695,12 +2523,21 @@
     "aliases": [
       "Vic Sage"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Former Television Investigative Journalist",
-    "base": "Hub City; Chicago, Gotham City, Metropolis",
-    "groupAffiliation": "Formerly L.A.W., JLA, Black Lantern Corps",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 6,
+      "power": 5,
+      "resilience": 4,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 18
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 538,
@@ -1712,12 +2549,21 @@
     "aliases": [
       "Demon's Head"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Eco Terrorist, Businessman, Cult Leader",
-    "base": "mobile",
-    "groupAffiliation": "League of Assassins",
-    "relatives": "The Sensei (father), White Ghost (Dusan al Ghul) (son), Talia al Ghul (daughter), Nyssa Raatko (daughter), Robin V (Damian Wayne) (grandson)"
+    "combat_stats": {
+      "reflexes": 12,
+      "movement": 8,
+      "power": 8,
+      "resilience": 12,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 24,
+      "resourcefulness": 24
+    },
+    "vs_battles_reference": {
+      "tier": "9-A"
+    }
   },
   {
     "id": 542,
@@ -1730,12 +2576,21 @@
       "Pride",
       "Dark Raven"
     ],
-    "publisher": "DC Comics",
     "alignment": "neutral",
-    "occupation": "Adventurer, high school student",
-    "base": "-",
-    "groupAffiliation": "Teen Titans, formerly Sentinels of Magic",
-    "relatives": "Trigon (father), Angela Roth (mother, deceased), Gluttony, Greed, Lust, Wrath, Envy, Sloth (half-brothers, status unknown)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 8,
+      "power": 18,
+      "resilience": 14,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "7-B to 4-B"
+    }
   },
   {
     "id": 543,
@@ -1747,12 +2602,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Freelance Computer Programmer and Software Designer",
-    "base": "Philadelphia, Pennsylvania",
-    "groupAffiliation": "Freedom Fighters, formerly Justice League of America, Justice League Task Force, Young Justice, JSA Reserves, Forgotten Heroes, Justice League Internationa",
-    "relatives": "Happy Terrill (father), Nadine Terrill (mother), Joshua Terrill (Spitfire, brother), Thomas Terrill (uncle/foster father, deceased), Hank Terrill (cousin)"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 6,
+      "power": 6,
+      "resilience": 6,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 545,
@@ -1765,12 +2629,21 @@
       "Arsenal",
       "Speedy"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer; intelligence agent; musician",
-    "base": "The Hall & JLA Watchtower; New York City; formerly Titans Tower, Station Markovia, and Gabriel's Horn",
-    "groupAffiliation": "Titans, Justice League of America, formerly Outsiders, Teen Titans, Checkmate, Central Bureau of Investigations",
-    "relatives": "Roy William Harper, Sr. (father, deceased); Brave Bow (adoptive father, deceased); Oliver \"Ollie\" Queen (Green Arrow - adoptive father); Jim Harper (Guardian- great-uncle); Lian Harper (daughter), Vandal Savage (ancestor)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 6,
+      "power": 5,
+      "resilience": 5,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 551,
@@ -1786,12 +2659,21 @@
       "Tornado Man Dreaming",
       "\"Reddy\""
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "Happy Harbor, Rhode Island",
-    "groupAffiliation": "Justice League of America, formerly Parliament of Vapors, T.O. Morrow, Justice Society of America, Young Justice, Primal Force, Leymen, Donna Troy",
-    "relatives": "T.O. Morrow (creator/father),Red Volcano (brother; deceased), Red Inferno (brother; deceased), Red Torpedo (sister; deceased), Tomorrow Woman (\"sister\"), Kathy Sutton (wife), Traya Sutton (adoptive daughter)"
+    "combat_stats": {
+      "reflexes": 14,
+      "movement": 18,
+      "power": 14,
+      "resilience": 12,
+      "armor": 8
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "8-A to 7-C"
+    }
   },
   {
     "id": 558,
@@ -1804,12 +2686,21 @@
       "E. Nigma",
       "Edward E. Nigma"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 4,
+      "movement": 3,
+      "power": 3,
+      "resilience": 3,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "9-C"
+    }
   },
   {
     "id": 559,
@@ -1827,12 +2718,21 @@
       "Hunter",
       "Carter"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "Time Lab, Arizona",
-    "groupAffiliation": "Formerly leader of the Time Masters; former member of the Forgotten Heroes; former member of the Linear Men, Booster Gold International (BGI)",
-    "relatives": "Michael Carter, (Booster Gold, father),  Unknown (mother), Jonar Carter (grandfather), Ellen Carter (grandmother, deceased), Michelle Carter (Goldstar) (aunt), Daniel Carter (21st century ancestor), Rose Levin (ancestor), Dan Hunter (cousin),"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 6,
+      "power": 6,
+      "resilience": 6,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 564,
@@ -1847,12 +2747,21 @@
       "Ibn al Xu'ffasch",
       "Redbird"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "Gotham City",
-    "groupAffiliation": "Batman Family, Batman Inc., Wayne Enterprises; formerly Teen Titans, League of Assassins",
-    "relatives": "Talia al Ghul (mother),\nBruce Wayne (Batman, father),\nRa's Al Ghul (maternal grandfather),\nMelisande (maternal grandmother),\nThomas Wayne (paternal grandfather),\nMartha Wayne (paternal grandmother),\nSensei (great-grandfather),\nSimon Hurt (ancestor),\nNyssa Raatko (aunt, deceased),\nDusan al Ghul (White Ghost, uncle, deceased),\nRichard Grayson (Nightwing, adoptive brother),\nTim Drake (Red Robin, adoptive brother),\nCassandra Cain (Batgirl IV, adoptive sister),\nJason Todd (Red Hood, adoptive brother), \nPatrick Wayne (great-grandfather, deceased); \nCharles Wayne (great-great-grandfather, deceased);\nConstance Wayne (great-great-grandmother, deceased); \nAlan Wayne (ancestor, deceased); \nSolomon Wayne (ancestor, deceased); \nDarius Wayne (ancestor, deceased); \nJoshua Wayne (ancestor, deceased)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 5,
+      "power": 5,
+      "resilience": 4,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 565,
@@ -1864,12 +2773,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "neutral",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 5,
+      "power": 5,
+      "resilience": 4,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 569,
@@ -1881,12 +2799,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Vigilante, former garment worker",
-    "base": "-",
-    "groupAffiliation": "Crimebusters",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 6,
+      "movement": 5,
+      "power": 5,
+      "resilience": 5,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-C to 9-B"
+    }
   },
   {
     "id": 576,
@@ -1898,12 +2825,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Special Professional Criminal",
-    "base": "Gotham City",
-    "groupAffiliation": "Injustice Gang",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 4,
+      "movement": 3,
+      "power": 3,
+      "resilience": 3,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "9-C"
+    }
   },
   {
     "id": 600,
@@ -1916,12 +2852,21 @@
       "Green Lantern",
       "White Lantern"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "Sira Baz (sister), Farid Amar (nephew), Nazir Amar (brother in-law)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 20,
+      "power": 18,
+      "resilience": 12,
+      "armor": 20
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 601,
@@ -1937,12 +2882,21 @@
       "Parallax",
       "Indigo Lantern"
     ],
-    "publisher": "DC Comics",
     "alignment": "neutral",
-    "occupation": "-",
-    "base": "Ranx, Warworld. formerly New Korugar, Qward, Oa",
-    "groupAffiliation": "Sinestro Corps, formerly Green Lantern Corps, Secret Society, Injustice League",
-    "relatives": "Witch Queen (sister, pre-Crisis), Soranik Natu (daughter), Arin Sur (wife, deceased), Abin Sur (brother-in-law, deceased), Amon Sur (nephew)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 20,
+      "power": 18,
+      "resilience": 12,
+      "armor": 20
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 22
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 609,
@@ -1954,12 +2908,21 @@
     "aliases": [
       "Marshland Monster"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Formerly, Injustice Society, Injustice League, the Society, Infinity, Inc; Injustice Unlimited, Black Lantern Corps",
-    "relatives": "Unnamed wife (deceased); Karin Rykel (possible descendant, deceased); Chrissie Cavendish (possible descendant)"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 8,
+      "power": 12,
+      "resilience": 14,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 4,
+      "resourcefulness": 2
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 615,
@@ -1973,12 +2936,21 @@
       "Mia",
       "Red Arrow"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Nightclub Owner",
-    "base": "-",
-    "groupAffiliation": "Team Arrow",
-    "relatives": "Moira Queen (mother, deceased), Robert Queen (foster father, deceased), Walter Steele (step-father, formerly), Malcolm Merlyn (biological father), Oliver Queen (Green Arrow, half-brother), Tommy Merlyn (half-brother, deceased), William Clayton (nephew)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 6,
+      "power": 5,
+      "resilience": 5,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   },
   {
     "id": 632,
@@ -1992,12 +2964,21 @@
       "Kory Anders",
       "Nova"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Model",
-    "base": "Formerly Titans Island, New York City; Titans Tower, San Francisco",
-    "groupAffiliation": "Formerly R.E.B.E.L.S., Justice League of America, Teen Titans, Outsiders",
-    "relatives": "King Myand'r (father), Queen Luand'r (mother), Queen Komand'r (sister, Blackfire), Ryand'r (brother), Prince Karras (husband, deceased), Ph'yzzon (husband, deceased)"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 18,
+      "power": 16,
+      "resilience": 16,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "7-B to 7-A"
+    }
   },
   {
     "id": 633,
@@ -2011,12 +2992,21 @@
       "Star",
       "Stars"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "Manhattan, New York City; Formerly Beverly Hills, California; later Blue Valley, Nebraska; later Metropolis",
-    "groupAffiliation": "Justice Society of America",
-    "relatives": "Barbara Whitmore-Dugan (mother); Sam Kurtis (father, deceased); Pat Dugan (S.T.R.I.P.E., Stepfather); Mike Dugan (stepbrother); Patricia Dugan (sister)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 10,
+      "power": 12,
+      "resilience": 12,
+      "armor": 8
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "8-C"
+    }
   },
   {
     "id": 634,
@@ -2031,12 +3021,21 @@
       "V",
       "V-Man"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Student",
-    "base": "Titans Tower, formerly Abandoned Gas Station of Solitude, Dakota City",
-    "groupAffiliation": "Shadow Cabinet, Heroes, Teen Titans",
-    "relatives": "Robert Hawkins (father), Jean Hawkins (mother), Sharon Hawkins (sister), Homer Hawkins (grandfather), Teshom? Hawkins (uncle, deceased),"
+    "combat_stats": {
+      "reflexes": 9,
+      "movement": 10,
+      "power": 10,
+      "resilience": 8,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 635,
@@ -2049,12 +3048,21 @@
       "Man of Steel",
       "Henry Johnson"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Weapons designer, former steelworker",
-    "base": "Steelworks, Metropolis; formerly Jersey City and Washington D.C.",
-    "groupAffiliation": "Reserve member of the Justice League of America",
-    "relatives": "Mrs. Irons (mother, deceased), Mr. Irons (father, deceased), Maternal Grandmother (deceased), maternal grandfather (deceased), Butter (grandfather), Bess (grandmother, deceased), Clay Irons (brother), Jemahl Irons (nephew), Blondell Irons (sister-in-law), Natasha Irons (Starlight, niece), Paco (nephew), Tyke (former foster nephew)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 12,
+      "power": 14,
+      "resilience": 10,
+      "armor": 16
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "8-B to 8-A"
+    }
   },
   {
     "id": 637,
@@ -2066,12 +3074,21 @@
     "aliases": [
       "Steppenwulf"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 16,
+      "power": 18,
+      "resilience": 18,
+      "armor": 10
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 641,
@@ -2084,12 +3101,21 @@
       "Experiment 13; Superman; Project: Superman; Carl Krummett; Project: Lionel Luthor; The Metropolis Kid",
       "Superman"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "San Francisco; Smallville; Formerly Metropolis; Formerly Honolulu",
-    "groupAffiliation": "Teen Titans, Legion of Super-Heroes, Team Superman; Formerly Young Justice, Project Cadmus, Ravers",
-    "relatives": "Superman (Kryptonian genetic template), Lex Luthor (Human genetic template), Match (clone)"
+    "combat_stats": {
+      "reflexes": 20,
+      "movement": 22,
+      "power": 21,
+      "resilience": 21,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 8
+    },
+    "vs_battles_reference": {
+      "tier": "Low 5-B to 2-C"
+    }
   },
   {
     "id": 642,
@@ -2101,12 +3127,21 @@
     "aliases": [
       "Superman-Prime; Prime; Superboy; Clark Kent; Clarkie; Time Trapper"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "currently a recreation of Earth-Prime, formerly Qward, Anti-Matter Universe.",
-    "groupAffiliation": "Formerly Black Lantern Corps, Legion of Super-Villains, Sinestro Corps",
-    "relatives": "Jor-El (father; deceased); Lara (mother, deceased); Jerry Kent (adoptive father); Naomi Kent (adoptive mother)"
+    "combat_stats": {
+      "reflexes": 22,
+      "movement": 23,
+      "power": 23,
+      "resilience": 23,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 8,
+      "resourcefulness": 5
+    },
+    "vs_battles_reference": {
+      "tier": "2-C"
+    }
   },
   {
     "id": 643,
@@ -2129,12 +3164,21 @@
       "Claire Connors",
       "Bluebird"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Intern, Adventurer, Student, Crime-Fighter",
-    "base": "Metropolis",
-    "groupAffiliation": "Formerly Justice League of America, Supermen of America, Justice League of Amazons, Kent Family, Superman Family, Kryptonian Science Guild, Teen Titans, Legion of Super-Heroes, Outsiders",
-    "relatives": "Zor-El (father), Allura In-Ze (mother), Jor-El II (uncle, deceased), Lara Lor-Van (aunt, deceased), Kal-El (Superman,Clark Kent, cousin), Lois Lane (cousin-in-law), Jonathan Kent (adopted uncle), Martha Kent (adopted aunt), Kon-El (Superboy, Conner Kent, clone cousin, deceased), Nim-El (uncle), Dondra Klu-Ta (aunt), Don-El (cousin), Jor-El I (praternal grandfather, deceased), Nimda An-Dor (paternal grandmother, deceased), Lar-Van (maternal grandfather, deceased), Lara Rok-Var (maternal grandmother, deceased), Val-El, Sul-El, Tala-El, Hatu-El, Gam-El (ancestors, deceased)"
+    "combat_stats": {
+      "reflexes": 20,
+      "movement": 22,
+      "power": 21,
+      "resilience": 21,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 8
+    },
+    "vs_battles_reference": {
+      "tier": "Low 5-B to 2-C"
+    }
   },
   {
     "id": 645,
@@ -2150,12 +3194,21 @@
       "Le Bon Gumbo",
       "Smalsh-Yegger (on Rann)"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Planet Elemental, former Biochemist",
-    "base": "-",
-    "groupAffiliation": "formerly (Parliament of Trees; Parliament of Stones, Parliament of Flames, Parliament of Waves, and Parliament of Vapors), The Parliament of Worlds",
-    "relatives": "Larry Holland (father, deceased); Alice Holland (mother, deceased); Edward Holland (brother); Linda Holland (first wife, deceased); Abigail Holland (second wife); Tef? Holland (daughter); Gregori Arcane (father-in-law, deceased)"
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 6,
+      "power": 20,
+      "resilience": 22,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 18
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
   },
   {
     "id": 657,
@@ -2167,12 +3220,21 @@
     "aliases": [
       "Eddie Blake"
     ],
-    "publisher": "DC Comics",
     "alignment": "neutral",
-    "occupation": "Former Adventurer; Government Agent",
-    "base": "New York City",
-    "groupAffiliation": "Formerly Crimebusters, Minutemen",
-    "relatives": "Silk Spectre (Laurel \"Laurie\" Juspeczyk) (daughter)"
+    "combat_stats": {
+      "reflexes": 6,
+      "movement": 5,
+      "power": 5,
+      "resilience": 5,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-C to 9-B"
+    }
   },
   {
     "id": 678,
@@ -2184,12 +3246,21 @@
     "aliases": [
       "Apollo"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "Reformed criminal; former district attorney",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "Duela Dent (Daughter), Gilda Dent (Wife), Poison Ivy (Fianc?e), Rachel Dawes (Girlfriend)"
+    "combat_stats": {
+      "reflexes": 4,
+      "movement": 3,
+      "power": 3,
+      "resilience": 3,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "9-C"
+    }
   },
   {
     "id": 692,
@@ -2201,12 +3272,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "Rapture (Armando Ramon, brother), Dante Ramon (brother)"
+    "combat_stats": {
+      "reflexes": 9,
+      "movement": 10,
+      "power": 10,
+      "resilience": 8,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "9-A to 8-C"
+    }
   },
   {
     "id": 699,
@@ -2218,12 +3298,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Former Model",
-    "base": "-",
-    "groupAffiliation": "Formerly Suicide Squad, Checkmate, Ultramarines, Birds of Prey, Justice League of America",
-    "relatives": "Reverend Richard Jiwe (father, deceased), Jeanne-Mari Jiwe (mother, deceased), General Mustapha Maksai (uncle, deceased), Tantu (ancestor)"
+    "combat_stats": {
+      "reflexes": 12,
+      "movement": 12,
+      "power": 14,
+      "resilience": 14,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "8-C to 8-B"
+    }
   },
   {
     "id": 718,
@@ -2239,12 +3328,21 @@
       "Wonder Woman",
       "Cassie Sandsmark"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Teen Titans, Young Justice, Themyscira",
-    "relatives": "-"
+    "combat_stats": {
+      "reflexes": 14,
+      "movement": 14,
+      "power": 16,
+      "resilience": 16,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "7-C to 7-B"
+    }
   },
   {
     "id": 720,
@@ -2261,12 +3359,21 @@
       "Wonder Girl",
       "The Amazon Princess"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "Adventurer, Emissary to the world of Man, Protector of Paradise Island; former Goddess of Truth",
-    "base": "-",
-    "groupAffiliation": "Justice League of America, Justice Society of America (pre-Crisis Earth-2 version); All-Star Squadron (pre-Crisis Earth-2 version)",
-    "relatives": "Queen Hippolyta (mother, deceased), Donna Troy (Troia) (magically-created duplicate)"
+    "combat_stats": {
+      "reflexes": 18,
+      "movement": 16,
+      "power": 18,
+      "resilience": 18,
+      "armor": 8
+    },
+    "dc_mitigation": {
+      "skills": 22,
+      "resourcefulness": 15
+    },
+    "vs_battles_reference": {
+      "tier": "Low 2-C to 2-C"
+    }
   },
   {
     "id": 730,
@@ -2278,12 +3385,21 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Misty Kilgore, Seven Soldiers of Victory, Justice League, Sentinels of Magic",
-    "relatives": "Giovanni \"John\" Zatara (father, deceased), Sindella (mother, deceased), Leonardo da Vinci (paternal ancestor, deceased)"
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 8,
+      "power": 18,
+      "resilience": 14,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "7-B to 4-B"
+    }
   },
   {
     "id": 731,
@@ -2295,11 +3411,74 @@
     "aliases": [
       "-"
     ],
-    "publisher": "DC Comics",
     "alignment": "bad",
-    "occupation": "-",
-    "base": "Keystone City, Kansas",
-    "groupAffiliation": "Secret Society of Super Villains, formerly Keystone Police Department, F.B.I.",
-    "relatives": "Ashley Zolomon (ex-wife)"
+    "combat_stats": {
+      "reflexes": 25,
+      "movement": 25,
+      "power": 12,
+      "resilience": 12,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
+  },
+  {
+    "id": 732,
+    "name": "Nightwing",
+    "slug": "732-nightwing",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Richard John Grayson",
+    "aliases": [
+      "Dick Grayson",
+      "Robin I"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 12,
+      "movement": 6,
+      "power": 5,
+      "resilience": 5,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 22,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "9-B to 9-A"
+    }
+  },
+  {
+    "id": 733,
+    "name": "Red Robin",
+    "slug": "733-red-robin",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Timothy Jackson Drake",
+    "aliases": [
+      "Tim Drake",
+      "Robin III"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 11,
+      "movement": 5,
+      "power": 5,
+      "resilience": 4,
+      "armor": 7
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 23
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
   }
 ]
