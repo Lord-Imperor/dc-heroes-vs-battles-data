@@ -3480,5 +3480,765 @@
     "vs_battles_reference": {
       "tier": "9-B"
     }
+  },
+  [
+  {
+    "id": 734,
+    "name": "Batgirl",
+    "slug": "734-batgirl",
+    "race": "Human",
+    "gender": "Female",
+    "fullName": "Barbara Gordon",
+    "aliases": [
+      "Babs",
+      "Oracle"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 11,
+      "movement": 6,
+      "power": 4,
+      "resilience": 4,
+      "armor": 7
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 24
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
+  },
+  {
+    "id": 735,
+    "name": "Red Hood",
+    "slug": "735-red-hood",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Jason Todd",
+    "aliases": [
+      "Robin II",
+      "Red Robin"
+    ],
+    "alignment": "neutral",
+    "combat_stats": {
+      "reflexes": 11,
+      "movement": 6,
+      "power": 6,
+      "resilience": 6,
+      "armor": 8
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "9-B to 9-A"
+    }
+  },
+  {
+    "id": 736,
+    "name": "Spoiler",
+    "slug": "736-spoiler",
+    "race": "Human",
+    "gender": "Female",
+    "fullName": "Stephanie Brown",
+    "aliases": [
+      "Robin IV",
+      "Batgirl III"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 6,
+      "power": 4,
+      "resilience": 4,
+      "armor": 5
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
+  },
+  {
+    "id": 737,
+    "name": "Hawkman",
+    "slug": "737-hawkman",
+    "race": "Thanagarian",
+    "gender": "Male",
+    "fullName": "Carter Hall",
+    "aliases": [
+      "Prince Khufu"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 14,
+      "movement": 16,
+      "power": 15,
+      "resilience": 15,
+      "armor": 12
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "8-C to 8-A"
+    }
+  },
+  {
+    "id": 738,
+    "name": "Wildcat",
+    "slug": "738-wildcat",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Ted Grant",
+    "aliases": [
+      "Wildcat"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 9,
+      "movement": 6,
+      "power": 6,
+      "resilience": 8,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 22,
+      "resourcefulness": 10
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
+  },
+  {
+    "id": 739,
+    "name": "Sandman",
+    "slug": "739-sandman",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Wesley Dodds",
+    "aliases": [
+      "The Sandman"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 5,
+      "power": 5,
+      "resilience": 5,
+      "armor": 3
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 18
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
+  },
+  {
+    "id": 740,
+    "name": "Lois Lane",
+    "slug": "740-lois-lane",
+    "race": "Human",
+    "gender": "Female",
+    "fullName": "Lois Lane",
+    "aliases": [
+      "Red Tornado"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 4,
+      "movement": 3,
+      "power": 2,
+      "resilience": 3,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "10-B"
+    }
+  },
+  {
+    "id": 741,
+    "name": "Impulse",
+    "slug": "741-impulse",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Bartholomew Allen II",
+    "aliases": [
+      "Bart Allen",
+      "Kid Flash II"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 24,
+      "movement": 24,
+      "power": 8,
+      "resilience": 8,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 8
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
+  },
+  {
+    "id": 742,
+    "name": "Green Arrow II",
+    "slug": "742-green-arrow-ii",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Connor Hawke",
+    "aliases": [
+      "Connor Hawke"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 11,
+      "movement": 6,
+      "power": 5,
+      "resilience": 5,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
+  },
+  {
+    "id": 743,
+    "name": "Terra",
+    "slug": "743-terra",
+    "race": "Human",
+    "gender": "Female",
+    "fullName": "Tara Markov",
+    "aliases": [
+      "Geo-Force"
+    ],
+    "alignment": "neutral",
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 8,
+      "power": 14,
+      "resilience": 10,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 8,
+      "resourcefulness": 6
+    },
+    "vs_battles_reference": {
+      "tier": "8-C to 8-A"
+    }
+  },
+  {
+    "id": 744,
+    "name": "Jericho",
+    "slug": "744-jericho",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Joseph Wilson",
+    "aliases": [
+      "Joey"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 8,
+      "movement": 6,
+      "power": 4,
+      "resilience": 4,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "9-B with possession hax"
+    }
+  },
+  {
+    "id": 745,
+    "name": "Black Mask",
+    "slug": "745-black-mask",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Roman Sionis",
+    "aliases": [
+      "The Black Mask"
+    ],
+    "alignment": "bad",
+    "combat_stats": {
+      "reflexes": 7,
+      "movement": 5,
+      "power": 5,
+      "resilience": 5,
+      "armor": 3
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 18
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
+  },
+  {
+    "id": 746,
+    "name": "Hush",
+    "slug": "746-hush",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Thomas Elliot",
+    "aliases": [
+      "Tommy"
+    ],
+    "alignment": "bad",
+    "combat_stats": {
+      "reflexes": 9,
+      "movement": 5,
+      "power": 5,
+      "resilience": 5,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
+  },
+  {
+    "id": 747,
+    "name": "Ocean Master",
+    "slug": "747-ocean-master",
+    "race": "Atlantean",
+    "gender": "Male",
+    "fullName": "Orm Marius",
+    "aliases": [
+      "King Orm"
+    ],
+    "alignment": "bad",
+    "combat_stats": {
+      "reflexes": 14,
+      "movement": 14,
+      "power": 16,
+      "resilience": 16,
+      "armor": 10
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 18
+    },
+    "vs_battles_reference": {
+      "tier": "8-C to 8-A"
+    }
+  },
+  {
+    "id": 748,
+    "name": "Atrocitus",
+    "slug": "748-atrocitus",
+    "race": "Ryutian",
+    "gender": "Male",
+    "fullName": "Atros",
+    "aliases": [
+      "Red Lantern Leader"
+    ],
+    "alignment": "bad",
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 20,
+      "power": 19,
+      "resilience": 18,
+      "armor": 18
+    },
+    "dc_mitigation": {
+      "skills": 16,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
+  },
+  {
+    "id": 749,
+    "name": "Larfleeze",
+    "slug": "749-larfleeze",
+    "race": "Unknown",
+    "gender": "Male",
+    "fullName": "Agent Orange",
+    "aliases": [
+      "Orange Lantern"
+    ],
+    "alignment": "neutral",
+    "combat_stats": {
+      "reflexes": 18,
+      "movement": 22,
+      "power": 20,
+      "resilience": 16,
+      "armor": 20
+    },
+    "dc_mitigation": {
+      "skills": 12,
+      "resourcefulness": 22
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
+  },
+  {
+    "id": 750,
+    "name": "Mongul",
+    "slug": "750-mongul",
+    "race": "Alien",
+    "gender": "Male",
+    "fullName": "Mongul",
+    "aliases": [
+      "Warlord"
+    ],
+    "alignment": "bad",
+    "combat_stats": {
+      "reflexes": 18,
+      "movement": 16,
+      "power": 21,
+      "resilience": 22,
+      "armor": 6
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
+  },
+  {
+    "id": 751,
+    "name": "Despero",
+    "slug": "751-despero",
+    "race": "Kalanorian",
+    "gender": "Male",
+    "fullName": "Despero",
+    "aliases": [
+      "The Despotic One"
+    ],
+    "alignment": "bad",
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 16,
+      "power": 19,
+      "resilience": 20,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 14,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
+  },
+  {
+    "id": 752,
+    "name": "Trigon",
+    "slug": "752-trigon",
+    "race": "Demon",
+    "gender": "Male",
+    "fullName": "Trigon",
+    "aliases": [
+      "Trigon the Terrible"
+    ],
+    "alignment": "bad",
+    "combat_stats": {
+      "reflexes": 20,
+      "movement": 18,
+      "power": 24,
+      "resilience": 24,
+      "armor": 8
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "Low 2-C"
+    }
+  },
+  {
+    "id": 753,
+    "name": "Circe",
+    "slug": "753-circe",
+    "race": "Goddess",
+    "gender": "Female",
+    "fullName": "Circe",
+    "aliases": [
+      "Witch of Aeaea"
+    ],
+    "alignment": "bad",
+    "combat_stats": {
+      "reflexes": 14,
+      "movement": 12,
+      "power": 18,
+      "resilience": 16,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 22,
+      "resourcefulness": 22
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
+  },
+  {
+    "id": 754,
+    "name": "Ares",
+    "slug": "754-ares",
+    "race": "God",
+    "gender": "Male",
+    "fullName": "Ares",
+    "aliases": [
+      "God of War"
+    ],
+    "alignment": "bad",
+    "combat_stats": {
+      "reflexes": 20,
+      "movement": 18,
+      "power": 22,
+      "resilience": 22,
+      "armor": 12
+    },
+    "dc_mitigation": {
+      "skills": 24,
+      "resourcefulness": 20
+    },
+    "vs_battles_reference": {
+      "tier": "Low 2-C"
+    }
+  },
+  {
+    "id": 755,
+    "name": "Amanda Waller",
+    "slug": "755-amanda-waller",
+    "race": "Human",
+    "gender": "Female",
+    "fullName": "Amanda Blake Waller",
+    "aliases": [
+      "The Wall"
+    ],
+    "alignment": "neutral",
+    "combat_stats": {
+      "reflexes": 4,
+      "movement": 3,
+      "power": 3,
+      "resilience": 4,
+      "armor": 2
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 25
+    },
+    "vs_battles_reference": {
+      "tier": "10-B / 9-C with weapons"
+    }
+  },
+  {
+    "id": 756,
+    "name": "Katana",
+    "slug": "756-katana",
+    "race": "Human",
+    "gender": "Female",
+    "fullName": "Tatsu Yamashiro",
+    "aliases": [
+      "Tatsu"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 11,
+      "movement": 7,
+      "power": 6,
+      "resilience": 6,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 22,
+      "resourcefulness": 12
+    },
+    "vs_battles_reference": {
+      "tier": "9-B with soul sword"
+    }
+  },
+  {
+    "id": 757,
+    "name": "Bloodsport",
+    "slug": "757-bloodsport",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Robert DuBois",
+    "aliases": [
+      "Bloodsport"
+    ],
+    "alignment": "neutral",
+    "combat_stats": {
+      "reflexes": 9,
+      "movement": 6,
+      "power": 8,
+      "resilience": 6,
+      "armor": 12
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "9-A with tech"
+    }
+  },
+  {
+    "id": 758,
+    "name": "Peacemaker",
+    "slug": "758-peacemaker",
+    "race": "Human",
+    "gender": "Male",
+    "fullName": "Christopher Smith",
+    "aliases": [
+      "Chris"
+    ],
+    "alignment": "neutral",
+    "combat_stats": {
+      "reflexes": 9,
+      "movement": 6,
+      "power": 6,
+      "resilience": 6,
+      "armor": 10
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B to 9-A"
+    }
+  },
+  {
+    "id": 759,
+    "name": "Huntress",
+    "slug": "759-huntress",
+    "race": "Human",
+    "gender": "Female",
+    "fullName": "Helena Bertinelli",
+    "aliases": [
+      "Helena"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 10,
+      "movement": 6,
+      "power": 5,
+      "resilience": 5,
+      "armor": 4
+    },
+    "dc_mitigation": {
+      "skills": 18,
+      "resourcefulness": 14
+    },
+    "vs_battles_reference": {
+      "tier": "9-B"
+    }
+  },
+  {
+    "id": 760,
+    "name": "Orion",
+    "slug": "760-orion",
+    "race": "New God",
+    "gender": "Male",
+    "fullName": "Orion",
+    "aliases": [
+      "Son of Darkseid"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 18,
+      "movement": 20,
+      "power": 21,
+      "resilience": 21,
+      "armor": 12
+    },
+    "dc_mitigation": {
+      "skills": 20,
+      "resourcefulness": 16
+    },
+    "vs_battles_reference": {
+      "tier": "4-B to Low 2-C"
+    }
+  },
+  {
+    "id": 761,
+    "name": "Mister Miracle",
+    "slug": "761-mister-miracle",
+    "race": "New God",
+    "gender": "Male",
+    "fullName": "Scott Free",
+    "aliases": [
+      "Scott"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 16,
+      "movement": 14,
+      "power": 14,
+      "resilience": 14,
+      "armor": 10
+    },
+    "dc_mitigation": {
+      "skills": 24,
+      "resourcefulness": 22
+    },
+    "vs_battles_reference": {
+      "tier": "8-A to 7-C"
+    }
+  },
+  {
+    "id": 762,
+    "name": "Mary Marvel",
+    "slug": "762-mary-marvel",
+    "race": "Human",
+    "gender": "Female",
+    "fullName": "Mary Batson",
+    "aliases": [
+      "Mary Bromfield"
+    ],
+    "alignment": "good",
+    "combat_stats": {
+      "reflexes": 18,
+      "movement": 20,
+      "power": 20,
+      "resilience": 20,
+      "armor": 0
+    },
+    "dc_mitigation": {
+      "skills": 10,
+      "resourcefulness": 8
+    },
+    "vs_battles_reference": {
+      "tier": "4-B"
+    }
   }
+]
 ]
