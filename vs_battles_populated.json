@@ -1,0 +1,53 @@
+[
+  {
+    "id": 70,
+    "name": "Batman",
+    "full_name": "Bruce Wayne",
+    "vs_battles_tier": "9-A",
+    "attack_potency": "Small Building level+",
+    "speed": "Supersonic+ to Hypersonic+",
+    "durability": "Small Building level+",
+    "lifting_strength": "Class 1 to Class 5",
+    "striking_strength": "Small Building level+",
+    "stamina": "Superhuman",
+    "range": "Standard Melee Range, Tens of Meters with devices",
+    "intelligence": "Extraordinary Genius",
+    "vs_battles_url": "https://vsbattles.fandom.com/wiki/Batman_(Post-Crisis)",
+    "completion_status": "Scraped",
+    "notes": "Post-Crisis version. Can reach 2-C with preparation."
+  },
+  {
+    "id": 643,
+    "name": "Supergirl",
+    "full_name": "Kara Zor-El",
+    "vs_battles_tier": "Variable (Low 5-B to 2-C)",
+    "attack_potency": "Small Planet level to Low Multiverse level",
+    "speed": "Massively FTL+",
+    "durability": "Small Planet level to Low Multiverse level",
+    "lifting_strength": "Variable up to Stellar",
+    "striking_strength": "Small Planet level to Low Multiverse level",
+    "stamina": "Superhuman",
+    "range": "Standard Melee Range, Planetary with abilities",
+    "intelligence": "Gifted to Extraordinary Genius",
+    "vs_battles_url": "https://vsbattles.fandom.com/wiki/Superman_(Post-Crisis)",
+    "completion_status": "Scraped",
+    "notes": "Post-Crisis Superman data (Supergirl comparable). Varies based on solar energy."
+  },
+  {
+    "id": 720,
+    "name": "Wonder Woman",
+    "full_name": "Diana Prince",
+    "vs_battles_tier": "Low 2-C to 2-C",
+    "attack_potency": "Universe level+ to Low Multiverse level",
+    "speed": "Massively FTL+",
+    "durability": "Universe level+ to Low Multiverse level",
+    "lifting_strength": "Stellar",
+    "striking_strength": "Universe level+ to Low Multiverse level",
+    "stamina": "Superhuman",
+    "range": "Standard Melee Range, Tens of Kilometers with thunderclap",
+    "intelligence": "Genius",
+    "vs_battles_url": "https://vsbattles.fandom.com/wiki/Wonder_Woman_(Post-Crisis)",
+    "completion_status": "Scraped",
+    "notes": "Post-Crisis version. Post-Clayface Absorption key."
+  }
+]
