@@ -126,23 +126,6 @@
     "relatives": "Monitor (\"brother\"), The Monitors"
   },
   {
-    "id": 36,
-    "name": "Aquababy",
-    "slug": "36-aquababy",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Arthur Curry, Jr.",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "Atlantis",
-    "groupAffiliation": "Aquaman Family",
-    "relatives": "Aquaman (Orin/Arthur Curry) (father); Mera (mother); Koryak (half-brother); A.J. (half-brother); Atlan (grandfather); Tom Curry (adoptive grandfather, deceased); Orm Marius (uncle); Kordax (ancestor, deceased); Arthur Joseph Curry (adoptive cousin)"
-  },
-  {
     "id": 37,
     "name": "Aqualad",
     "slug": "37-aqualad",
@@ -197,23 +180,6 @@
     "occupation": "-",
     "base": "Formely; Hyssa, Metropolis",
     "groupAffiliation": "-",
-    "relatives": "-"
-  },
-  {
-    "id": 52,
-    "name": "Atom Girl",
-    "slug": "52-atom-girl",
-    "race": null,
-    "gender": "Female",
-    "fullName": "Salu Digby",
-    "aliases": [
-      "Shrinking Violet"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "United Planets, 31st century",
-    "groupAffiliation": "Legion of Super-Heroes",
     "relatives": "-"
   },
   {
@@ -365,23 +331,6 @@
     "base": "Prague; formerly Hollywood, California; formerly Manhattan, New York",
     "groupAffiliation": "Teen Titans; former member of the original Doom Patrol, Titans West",
     "relatives": "Mark Logan (father, deceased), Marie Logan (mother, deceased), Steve Dayton/Mento (adoptive father), Rita Farr/Elasti-Girl (adoptive mother), Matt Logan (cousin)"
-  },
-  {
-    "id": 78,
-    "name": "Ben 10",
-    "slug": "78-ben-10",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Benjamin Kirby Tennyson",
-    "aliases": [
-      "Ben Ten"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
   },
   {
     "id": 81,
@@ -599,23 +548,6 @@
     "relatives": "Mal Duncan (husband)"
   },
   {
-    "id": 144,
-    "name": "Bushido",
-    "slug": "144-bushido",
-    "race": "Human",
-    "gender": "Male",
-    "fullName": "Ryuko Orsono",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Teen Titans",
-    "relatives": "-"
-  },
-  {
     "id": 150,
     "name": "Captain Atom",
     "slug": "150-captain-atom",
@@ -717,32 +649,6 @@
     "relatives": "Brian Kyle (father, deceased), Maria Kyle (mother, deceased), Maggie Kyle (sister), Helena Kyle (daughter)"
   },
   {
-    "id": 170,
-    "name": "Chameleon",
-    "slug": "170-chameleon",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Dmitri Anatoly Smerdyakov Kravinoff",
-    "aliases": [
-      "Dr. Ashley Kafka",
-      "Dr. Turner",
-      "J. Jonah Jameson",
-      "Torpedo",
-      "Rick Jones",
-      "Dr. Henry Pym",
-      "Peter Parker",
-      "Captain George Stacy",
-      "Dr. Robert Bruce Banner",
-      "General"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "The Exterminators; formerly Sinister Six, Sinister Twelve",
-    "relatives": "Kravinoff Patriarch (father, deceased), mother (unnamed), Sergei Kravinoff (Kraven I, half-brother, deceased), Vladimir Kravinoff (The Grim Hunter, nephew, deceased), Alyosha Kravinoff (Kraven the Hunter, nephew), Ned Tannengarden (nephew, deceased)"
-  },
-  {
     "id": 172,
     "name": "Cheetah",
     "slug": "172-cheetah",
@@ -799,23 +705,6 @@
     "base": "Battery Park, New York City, formerly Franklin County, Ohio",
     "groupAffiliation": "Justice Society of America",
     "relatives": "Hank Heywood, Sr. (Commander Steel, grandfather, deceased) ? Hank Heywood, Jr. (uncle, deceased) ? Hank Heywood III (Steel, cousin, deceased) ? Kirk Heywood (brother, deceased), Nicole (cousin)"
-  },
-  {
-    "id": 181,
-    "name": "Clock King",
-    "slug": "181-clock-king",
-    "race": "Human",
-    "gender": "Male",
-    "fullName": "William Tockman",
-    "aliases": [
-      "Tempus Fugit"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Clockwatchers, Justice League Antarctica, Suicide Squad, Time Foes",
-    "relatives": "Beverly (sister, deceased)"
   },
   {
     "id": 194,
@@ -1138,24 +1027,6 @@
     "relatives": "-"
   },
   {
-    "id": 288,
-    "name": "Gog",
-    "slug": "288-gog",
-    "race": null,
-    "gender": "Male",
-    "fullName": "",
-    "aliases": [
-      "Nephut-Sha",
-      "Hassan Kareem"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Sinister Six",
-    "relatives": "Seth (creator), Magog (\"brother\")"
-  },
-  {
     "id": 294,
     "name": "Gorilla Grodd",
     "slug": "294-gorilla-grodd",
@@ -1254,24 +1125,6 @@
     "relatives": "Barry Quinzel (brother), Sharon Quinzel (mother), Nick Quinzel (father), Jenny Quinzel (niece), Nicky Quinzel (nephew)"
   },
   {
-    "id": 312,
-    "name": "Hawk",
-    "slug": "312-hawk",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Henry Hall",
-    "aliases": [
-      "Monarch",
-      "Extant"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Black Lantern Corps, Teen Titans, Hawk and Dove, Titans West",
-    "relatives": "Don Hall (brother, deceased), Irwin Hall (father), Rae Penfield (mother), James Penfield (uncle)"
-  },
-  {
     "id": 315,
     "name": "Hawkgirl",
     "slug": "315-hawkgirl",
@@ -1304,23 +1157,6 @@
     "occupation": "Professional Criminal",
     "base": "Central City",
     "groupAffiliation": "Rogues; formerly Secret Society of Super-Villains, Legion of Doom",
-    "relatives": "-"
-  },
-  {
-    "id": 342,
-    "name": "Indigo",
-    "slug": "342-indigo",
-    "race": "Alien",
-    "gender": "Female",
-    "fullName": "Iroque",
-    "aliases": [
-      "Indigo-1"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "neutral",
-    "occupation": "Leader of the Indigo Tribe",
-    "base": "-",
-    "groupAffiliation": "Indigo Tribe; formerly the New Guardians",
     "relatives": "-"
   },
   {
@@ -1396,32 +1232,6 @@
     "base": "Arkham Asylum, Gotham City; Ha-Hacienda",
     "groupAffiliation": "Black Glove, Injustice Gang, Injustice League, Joker League of Anarchy",
     "relatives": "Jeannie (wife, deceased); Unborn son (deceased); Melvin Reipan (cousin, deceased)"
-  },
-  {
-    "id": 382,
-    "name": "Kevin 11",
-    "slug": "382-kevin-11",
-    "race": "Human",
-    "gender": "Male",
-    "fullName": "Kevin Ethan Levin",
-    "aliases": [
-      "Kevin 11,000",
-      "Curtis",
-      "Osmosian",
-      "Kev",
-      "Kevin Ethan",
-      "Levin",
-      "Ultimate Kevin",
-      "Doofus",
-      "An Empty Shell",
-      "Kevin E. Levin"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "Mrs. Levin (mother), Devlin Levin (alternate future son), Ben Tennyson (Ben 10, best friend), Harvey Hackett (Stepfather), Gwen Tennyson(girlfriend)"
   },
   {
     "id": 384,
@@ -1570,23 +1380,6 @@
     "relatives": "Casey and Elaine Griggs (foster parents, deceased),\nLena Luthor (sister pre-Crisis; daughter post-Crisis),\nElizabeth Perske (ex-wife),\nPerry J. White Jr. (son, deceased),\nContessa Erica Alexandra del Portenza (wife, assumed deceased)"
   },
   {
-    "id": 406,
-    "name": "Light Lass",
-    "slug": "406-light-lass",
-    "race": null,
-    "gender": "Female",
-    "fullName": "Ayla Ranzz",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "United Planets",
-    "groupAffiliation": "Legion of Super-Heroes, formerly the Wanderers",
-    "relatives": "Unnamd parents, Garth Ranzz (Lightning Lad, twin brother); Mekt Ranzz (older brother)"
-  },
-  {
     "id": 407,
     "name": "Lightning Lad",
     "slug": "407-lightning-lad",
@@ -1602,23 +1395,6 @@
     "occupation": "Legionnaire",
     "base": "Earth, 31st century",
     "groupAffiliation": "Legion of Super-Heroes",
-    "relatives": "-"
-  },
-  {
-    "id": 408,
-    "name": "Lightning Lord",
-    "slug": "408-lightning-lord",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Mekt Ranzz",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "The Wanderers, former ally of the Legion of Super-Heroes.",
     "relatives": "-"
   },
   {
@@ -1641,23 +1417,6 @@
     "base": "Mobile throughout several galaxies",
     "groupAffiliation": "Formerly LEGION, Young Justice; First Celestial Church of the Triple Fish-God",
     "relatives": "Slobo (clone)"
-  },
-  {
-    "id": 424,
-    "name": "Magog",
-    "slug": "424-magog",
-    "race": null,
-    "gender": "Male",
-    "fullName": "David Reid",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "formerly Justice Society of America, formerally United States Marine Corps",
-    "relatives": "Franklin Delano Roosevelt (great-grandfather, deceased)"
   },
   {
     "id": 427,
@@ -1694,42 +1453,6 @@
     "base": "-",
     "groupAffiliation": "Darkstars, Justice League of Aliens, Justice League Of America, Justice League Task Force, Justice League Unlimited, Martians, Outsiders",
     "relatives": "M'yrnn J'onzz (father, deceased); Sha'sheen J'onzz (mother, deceased); M'yri'ah (wife, deceased); K'hym (daughter, deceased); Ma'alefa'ak (twin brother); D'all (father-in-law, deceased); J'ahrl J'onzz (ancestor, deceased)"
-  },
-  {
-    "id": 436,
-    "name": "Match",
-    "slug": "436-match",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Kent Connor",
-    "aliases": [
-      "Superboy",
-      "Superman"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Titans East, the Agenda, Project Cadmus",
-    "relatives": "Superman (genetic template via Superboy), Lex Luthor (genetic Template via Superboy), Superboy (genetic template)"
-  },
-  {
-    "id": 439,
-    "name": "Maxima",
-    "slug": "439-maxima",
-    "race": null,
-    "gender": "Female",
-    "fullName": "",
-    "aliases": [
-      "Queen Maxima",
-      "Empress of the Almeracian Empire"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "Adventurer, Queen of the Almerac Empire",
-    "base": "Imperial Royal Palace",
-    "groupAffiliation": "Justice League Task Force, Extreme Justice",
-    "relatives": "-"
   },
   {
     "id": 444,
@@ -1783,24 +1506,6 @@
     "occupation": "Scientist, seeker of knowledge",
     "base": "Supertown, New Genesis",
     "groupAffiliation": "New Gods",
-    "relatives": "-"
-  },
-  {
-    "id": 451,
-    "name": "Micro Lad",
-    "slug": "451-micro-lad",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Gim Allon",
-    "aliases": [
-      "Colossal Boy (mostly known as Colossal Boy",
-      "although he dislikes that name himself)"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "United Planets, 31st century",
-    "groupAffiliation": "Legion of Super-Heroes",
     "relatives": "-"
   },
   {
@@ -1858,58 +1563,6 @@
     "relatives": "-"
   },
   {
-    "id": 461,
-    "name": "Mister Zsasz",
-    "slug": "461-mister-zsasz",
-    "race": "Human",
-    "gender": "Male",
-    "fullName": "Victor Zsasz",
-    "aliases": [
-      "Mr Zsasz"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "Serial Killer",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
-  },
-  {
-    "id": 499,
-    "name": "Offspring",
-    "slug": "499-offspring",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Luke O'Brian",
-    "aliases": [
-      "Ernie McDunnagh",
-      "Plastic Lad"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
-  },
-  {
-    "id": 506,
-    "name": "Osiris",
-    "slug": "506-osiris",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Amon Tomaz",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "Shiruta, Kahndaq",
-    "groupAffiliation": "-",
-    "relatives": "Isis (Sister, deceased), Black Adam (Brother-in-Law)"
-  },
-  {
     "id": 508,
     "name": "Ozymandias",
     "slug": "508-ozymandias",
@@ -1961,23 +1614,6 @@
     "relatives": "Miranda Cobblepot (Aunt), Miranda (Mother, deceased), Father (deceased)"
   },
   {
-    "id": 516,
-    "name": "Phantom Girl",
-    "slug": "516-phantom-girl",
-    "race": null,
-    "gender": "Female",
-    "fullName": "Tinya Wazzo",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "United Planets, Bgztl",
-    "groupAffiliation": "-",
-    "relatives": "-"
-  },
-  {
     "id": 520,
     "name": "Plastic Man",
     "slug": "520-plastic-man",
@@ -1993,23 +1629,6 @@
     "base": "-",
     "groupAffiliation": "The FBI; formerly the Justice League of America; the All-Star Squadron and the Freedom Fighters",
     "relatives": "Offspring (son)"
-  },
-  {
-    "id": 521,
-    "name": "Plastique",
-    "slug": "521-plastique",
-    "race": null,
-    "gender": "Female",
-    "fullName": "Bette Sans Souci",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "Government Agent, former Terrorist, Mercenary",
-    "base": "Mobile; formerly Quebec, Canada",
-    "groupAffiliation": "Suicide Squad, formerly Bomb Squad, Extreme Justice",
-    "relatives": "Nathaniel Adam (Captain Atom,husband), Margaret Eiling (step-daughter), Randall Eiling (step-son)"
   },
   {
     "id": 522,
@@ -2175,23 +1794,6 @@
     "relatives": "T.O. Morrow (creator/father),Red Volcano (brother; deceased), Red Inferno (brother; deceased), Red Torpedo (sister; deceased), Tomorrow Woman (\"sister\"), Kathy Sutton (wife), Traya Sutton (adoptive daughter)"
   },
   {
-    "id": 557,
-    "name": "Rick Flag",
-    "slug": "557-rick-flag",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Richard Rogers Flag",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "Government Agent, Covert Ops field Commander",
-    "base": "Belle Reve, Louisiana",
-    "groupAffiliation": "Suicide Squad, Task Force X",
-    "relatives": "Richard Flag, Sr. (father, deceased); Richard Flag III (son); Karin Grace (mother of child)"
-  },
-  {
     "id": 558,
     "name": "Riddler",
     "slug": "558-riddler",
@@ -2304,23 +1906,6 @@
     "relatives": "-"
   },
   {
-    "id": 585,
-    "name": "Shadow Lass",
-    "slug": "585-shadow-lass",
-    "race": "Talokite",
-    "gender": "Female",
-    "fullName": "Tasmia Mallor",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
-  },
-  {
     "id": 600,
     "name": "Simon Baz",
     "slug": "600-simon-baz",
@@ -2360,40 +1945,6 @@
     "relatives": "Witch Queen (sister, pre-Crisis), Soranik Natu (daughter), Arin Sur (wife, deceased), Abin Sur (brother-in-law, deceased), Amon Sur (nephew)"
   },
   {
-    "id": 602,
-    "name": "Siren",
-    "slug": "602-siren",
-    "race": "Atlantean",
-    "gender": "Female",
-    "fullName": "Hila",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "-",
-    "base": "formely Atlantis",
-    "groupAffiliation": "-",
-    "relatives": "Mera (twin sister), Aquaman (brother-in-law)"
-  },
-  {
-    "id": 608,
-    "name": "Sobek",
-    "slug": "608-sobek",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Yurrd the Unknown",
-    "aliases": [
-      "Sobek the Talking Crocodile; The Unknown in Formless Time Before Time; Famine"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "Kahndaq",
-    "groupAffiliation": "Black Marvel Family, Four Horsemen",
-    "relatives": "-"
-  },
-  {
     "id": 609,
     "name": "Solomon Grundy",
     "slug": "609-solomon-grundy",
@@ -2409,24 +1960,6 @@
     "base": "-",
     "groupAffiliation": "Formerly, Injustice Society, Injustice League, the Society, Infinity, Inc; Injustice Unlimited, Black Lantern Corps",
     "relatives": "Unnamed wife (deceased); Karin Rykel (possible descendant, deceased); Chrissie Cavendish (possible descendant)"
-  },
-  {
-    "id": 611,
-    "name": "Space Ghost",
-    "slug": "611-space-ghost",
-    "race": "Human",
-    "gender": "Male",
-    "fullName": "Thaddeus Bach",
-    "aliases": [
-      "Ted Ghostel",
-      "Tad Ghostal"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Galactic Heroes",
-    "relatives": "-"
   },
   {
     "id": 615,
@@ -2642,25 +2175,6 @@
     "relatives": "Silk Spectre (Laurel \"Laurie\" Juspeczyk) (daughter)"
   },
   {
-    "id": 676,
-    "name": "Triplicate Girl",
-    "slug": "676-triplicate-girl",
-    "race": null,
-    "gender": "Female",
-    "fullName": "Luornu Durgo",
-    "aliases": [
-      "Duo Damsel",
-      "Una",
-      "Triad"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "Earth, 31st century",
-    "groupAffiliation": "Legion of Super-Heroes",
-    "relatives": "-"
-  },
-  {
     "id": 678,
     "name": "Two-Face",
     "slug": "678-two-face",
@@ -2710,61 +2224,6 @@
     "base": "-",
     "groupAffiliation": "Formerly Suicide Squad, Checkmate, Ultramarines, Birds of Prey, Justice League of America",
     "relatives": "Reverend Richard Jiwe (father, deceased), Jeanne-Mari Jiwe (mother, deceased), General Mustapha Maksai (uncle, deceased), Tantu (ancestor)"
-  },
-  {
-    "id": 706,
-    "name": "Warp",
-    "slug": "706-warp",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Emil LaSalle",
-    "aliases": [
-      "-"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Brotherhood of Evil, The Society",
-    "relatives": "-"
-  },
-  {
-    "id": 711,
-    "name": "White Canary",
-    "slug": "711-white-canary",
-    "race": "Human",
-    "gender": "Female",
-    "fullName": "",
-    "aliases": [
-      "Silk Sister",
-      "Sara Lance"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "bad",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "-",
-    "relatives": "-"
-  },
-  {
-    "id": 713,
-    "name": "Wildfire",
-    "slug": "713-wildfire",
-    "race": null,
-    "gender": "Male",
-    "fullName": "Drake Burroughs",
-    "aliases": [
-      "ERG-1",
-      "Atom'x",
-      "Randall Burroughs",
-      "Jahr-Drake Nigle"
-    ],
-    "publisher": "DC Comics",
-    "alignment": "good",
-    "occupation": "-",
-    "base": "-",
-    "groupAffiliation": "Legion of Super-Heroes",
-    "relatives": "-"
   },
   {
     "id": 718,
